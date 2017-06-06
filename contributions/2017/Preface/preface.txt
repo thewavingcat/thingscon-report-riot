@@ -1,0 +1,58 @@
+# ThingsCon Report: The State of Responsible IoT
+
+**The ThingsCon report [The State of Responsible IoT](http://bit.ly/riot-report) is a collection of essays by experts from the inter-disciplinary [ThingsCon](http://thingscon.com) community. It explores the challenges, opportunities and questions surrounding the creation of a responsible & human-centric Internet of Things (IoT).**
+
+**It's a critical time in the development of the Internet of Things (IoT). We believe the ThingsCon community has a valuable contribution to make to ensure a future where IoT works for everyone: A responsible & human-centric IoT.**
+
+As part of our advocacy this key issue we gathered contributors from across the ThingsCon community and put together a report on the state of responsible IoT.
+
+This report is a collection of essays and articles by experts from a wide range of disciplines covering a wide range of topics, issues and questions around responsible & human-centric IoT.
+
+We see this is a first step on a longer journey—a kickoff if you will. We will keep adding to this collection: As the questions surrounding responsible IoT change, so will this project. We will continue to do this as much in the open as possible (see the section "Keep it open!" below).
+
+
+
+### Table of content
+
+TK TOC linked to Medium posts
+
+### Keep it open!
+
+We believe there is an inherent value in openness, and in working in public. 
+
+- **License:** All contributors kindly agreed to publish their pieces under a Creative Commons license ([CC by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/4.0/)), so you can share the content without asking permission. 
+- **Available online for free:** For comfortable reading, we published the content as a [series on Medium](TK LINK TO MEDIUM SERIES). It's a great platform for authors.
+- **Powered by Github:** We also keep all content in a [Github repository](https://github.com/thewavingcat/thingscon-report-riot) (in Markdown) to make updating extra easy, and to allow for extra-easy future contributions and collaborative editing.
+
+### Contributors
+
+We thank our initial contributors: 
+
+TK: List of contributors
+
+May there be many more!
+
+### About this report
+
+This report is licensed under a Creative Commons ([CC by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/4.0/)) license. Please reference the author by name.
+
+[ThingsCon](https://thingscon.com) is a global community of IoT practitioners dedicated to fostering the creation of a human-centric & responsible Internet of Things. Learn more on [ThingsCon.com](https://thingscon.com), join an [event near you.](https://thingscon.com/events), and [follow us on Twitter](https://twitter.com/thingscon).
+
+To link to this page, you can also use the shortlink [bit.ly/riot-report](http://bit.ly/riot-report).
+
+### Get in touch
+
+We love to hear back from you, be it with feedback or because you have a contribution to make.
+
+- If you would like to reproduce individual pieces, please get in touch with the author directly; all rights are in their hands.
+- If you'd like to contribute a piece to this essay collection, please get in touch (info at thingscon.com).
+
+For any other question, please also get in touch on any channel (@thingscon on Twitter or by email, info at thingscon.com).
+
+///
+/// 
+
+TK: INCLUDE
+
+- 
+
