@@ -1,0 +1,114 @@
+#On IoT Design Processes
+by Dries de Roeck
+
+> "Network connected products, or things, have quite a history."
+
+This isn't the usual quote Internet of Things-related talks or startup pitches *anno 2017*. Sure, we work in 'changing times' where technology is offering people in industrial design and digital development the possibility to create novel products and ways of interaction. But let's start by taking a step back and briefly look where this all came from.
+
+##Back once again
+
+Related to internet-connected products, Mark Weiser laid a cornerstone in 1991 when he introduced the core idea of ubiquitous computing. In his paper "The computer for the 21st century" Weiser describes how computers disappear into the background framework and evolve to fit the human environment. 
+Weiser's work sparked a flurry of human computer interaction research which has been exploring our changing relationship with technology, and how our everyday lives can be mediated by computerized systems. 
+
+(At least) three types of actions have been extensively recognized and researched:
+
+- *In-context artefacts*: By placing working products or prototypes in context, we can obtain insights into how people live with networked products in their daily lives. This allows us to understand in which ways technology can be used to support people in their day-to-day efforts, or which values we could focus on. 
+A good example of this is Bill Gaver's history tablecloth[^1], a digitally connected product created as an experiential prototype. Only by living with this product on a day-to-day basis you can fully experience and understand its functionality and value.
+- *Involving stakeholders*: When it comes to designing with 'novel' technologies, it is not easy to present ideas to end users or other stakeholders in early stages of the design process. 
+But the literature thoroughly explores way to better explore concepts and early ideas. A schoolbook example of such a technique is Wizard of Oz[^2] testing, which originated in the 1980s. Wizard of Oz testing comes down to providing an end user with the illusion that a digital system is functional, whereas it is actually being controlled manually.
+- *Design tools*: When designing digitally connected physical products, a design challenge is to constantly keep track of which design choices in either medium influence each other. 
+For example, adding a physical button to a hardware device might be impossible because the micro controller does not have any spare pins to use: In this case, a digital constraint limits a physical design choice. Research by Bjorn Hartmann (2006) and others has been tackling these challenges. Hartmann created a set of software and hardware building blocks called [d.tools][^3], which made it possible to create working digitally connected physical prototypes more easily.
+
+##Today's reality
+
+However, as thorough as these topics have been researched in an academic human computer interaction (HCI) context or experimented with in interactive arts, it is only more recently that Internet of Things consumer products are seeping through to mainstream markets. 
+
+Larger companies have developed serious interest in IoT over the past 5 years, pushing it towards a very hyped 'technological revolution'. Hence it should come as no surprise that IoT startups are sprouting like mushrooms throughout incubators worldwide.
+And yet it's apparent—taking into account the richness around this topic in existing research—that a lot of products pushed to the market end up becoming underused gadgets which focus on technological functionalities first and foremost. 
+This observation is also one of the driving factors behind the ThingsCon mission statement, which clearly calls for a more meaningful and responsible internet of things.
+
+Deliberately creating responsible IoT product with meaning is easier said than done. What can be observed in current design practice is that people and companies are very much in the process of figuring things out. 
+On one hand, companies that have always done digital product design are moving into designing with hardware. On the other hand, physical product companies are now increasingly involved in digital design projects.
+Interestingly, a physical product design process is very different compared to a digital product design process - yet both 'process backgrounds' are being applied to designing Internet of Things products. 
+
+This leads us to ask whether there is a product design process specific to IoT, and if so, what it would consist of? In order to help people in design and development to create more meaningful internet connected products, it's essential to answer this question.
+
+## Understanding things
+
+We set out to develop a better understanding of how IoT products are being created in practice, which issues companies struggle with, and how these struggles could be overcome.
+
+In a study in collaboration with 13 IoT startups from the ThingsCon network across 3 major European cities—London, Amsterdam and Berlin—we set up sessions with 4 to 5 startups in each city.
+During these sessions, the prime focus was on creating a visualized timeline of the design process linked to each  startup’s product. Afterwards, all gathered processes were analyzed using the 'Development Oriented Triangulation' framework[^4] (DOT), which focuses on breaking down design processes into 5 different categories:
+
+- *Library*: A 'static' research activity, such as looking up existing work or analyzing existing data.
+- *Field*: Going out into the field to observe, trial, or explore something in content.
+- *Showroom*: Creating something, usually a prototype, that can be shown and evaluated by experts.
+- *Workshop*: Making something through prototyping or exploring a topic in a 'hands-on' way.
+- *Lab*: Testing a prototype or idea in a controlled way, not necessarily in a realistic context of use.
+
+Each of the 13 design processes we gathered this way was broken down using that system. During the analysis, a clear structure emerged: All design processes involved 'technical', 'business', and 'user' related design activities. 
+
+- *Technical* activities relate to, for instance, choosing a technology or developing hardware. 
+- A *business* activity within the startup context is often related to showcasing a working prototype to investors. 
+- Lastly, a *user* activity is anything that touches on users' involvement, like a trial session, or going out into the field to interview relevant people. 
+
+Putting all of that together, resulted in the following overview:
+![results_table_export.png](https://draftin.com:443/images/51825?token=AxqJciBzdc9W9Eps7T_WspPPeBjIQikjUkofcJiLbd0r1teGhp8jZHb4BckXWDOOPVnat97vKhmO_DcFq2i3IEw)
+
+##A summary of findings
+
+Firstly, based on this data we found an overall lack, or even absence, of user-related research activities in early phases of the design processes. 
+In a 'traditional' human centered design process, the starting point would be an exploratory activity which helps in understanding the context of use more thoroughly. However, only 4 cases in our dataset started with a user oriented activity. In contrast, over half of the cases start from a technical activity which does confirm our initial observation that IoT products are often created in a way that is dominated by technological considerations. 
+What was perhaps most striking about this finding is that over half of the studied companies expressed that involving users, and working in a user-centered way in earlier phases, is something they missed looking back. 
+Turns out that startups often aren't aware of the value of a user-centered approach at the outset, or don't know how to get the most value out of user-centered activities in their design process.
+
+Secondly, the 13 design IoT design processes we analyzed  showed a wide variety of applied strategies. More importantly, almost all processes iterated between strategies. This shows that the design processes happened in an iterative way: Startups demonstrate a clear willingness to reformulate and tweak initial ideas.
+However, none of the startups we interviewed went through these iterations *consciously and deliberately*. 
+This implies that during design and development within IoT startups, there is very little meta thinking about design processes and activities. Most steps are taken ad-hoc.
+
+Lastly, we identified two common design patterns in our data. Both start with a workshop activity, and then move on to either a showroom or lab activity. (The DOT framework[^1] refers to these as (partial) rigor cycles and (partial) validated solutions respectively.)
+Typically, a workshop activity generates a new proposition. These propositions are then validated or invalidated by a group of experts or end users. 
+It might appear rather common to work in this way, but we found that most of these activities were driven by investor pitches or other funding related deadlines. This  highlights the turbulent environment IoT startups operate in, which often do not allow them to follow a pre-planned, more deliberate design process.
+
+##tl;dr
+
+- "The working prototype is a lie". IoT startups focus a lot on creating a working prototype early in their design processes. In startup culture, this is regarded to be important in order to convince investors or other potential funding sources. 
+After studying several IoT startups' design processes, focusing on a working prototype early on increases the risk of having to spend a lot of effort afterwards to connect with an actual target audience. Let's be honest: Who really cares about your technology stack when you don't know if your product will be used on top of a mountain, inside a car, or in a shower?
+- "Value and technology are no BFFs". IoT is often framed from a very technology-driven point of view. The focus is on features and possibilities, but rarely on how people might actually use internet-connected products and services in their day to day lives, and how those might add value. 
+After analyzing 13 IoT design processes, it was apparent that only two of them started from a value-driven point of view. Maybe not surprisingly, these were two cases not driven by venture capital or part of an IoT incubator/accelerator program. In order to design IoT products in a human centered and responsible way, companies should be motivated to start exploring first and building later.
+
+##Onwards, to lightweight futures
+
+Within a startup context there is little tradition of having a deep understanding of users in an early stage in the project. Dominant ‘lean startup’[^5] methodology puts a lot of emphasis on creating a ‘minimal viable product’ (MVP). This MVP becomes a tool or prototype that is used to understand the product's potential end users. Looking at our design process data, this way of working often results in...
+
+- realizing who a company’s actual end-users are at a very late phase in the process.
+- being uncertain about how to involve stakeholders to inform the design process.
+
+Additionally, the fast-changing environment startups operate in makes it difficult to predict future design process steps. 
+Traditional human-centered design methodology often conceptualizes design as a pre-planned process. The reality for many startups, however, is that they work from funding round to funding round, and thus cannot plan ahead as much as needed. When proposing methodologies for IoT startups we need to take this reality into account.
+
+A plausible resolution can be found in ‘lightweight’ stakeholder involvement methods that have been explored by academics and practitioners. A lot of work is happening towards providing organizations with more flexible tools to help out in designing IoT products. Some good starting points are:
+
+- IoT Ideation toolkit[^6] by Studio Dott and Knowcards
+- IoT Service kit[^7] by Futurice
+- Tiles IoT cards[^8] by NTNU
+
+These lightweight methods allow for a high level of flexibility and are applicable at various moments throughout the design process. 
+
+It is important to point out that tools like these are not the holy grail of *the* IoT design process, but they do indicate that it is possible to include a human-centered design process in the design and development of products that are centered around technology. By doing so, it's possible to build bridges between the long-standing academic discourse on HCI and ubiquitous computing methods, and emergent startup culture.
+
+[^1]: https://youtu.be/bucvjsKfzgc & http://dl.acm.org/citation.cfm?id=1142437
+
+[^2]: https://www.interaction-design.org/literature/topics/wizard-of-oz-prototypes
+
+[^3]: http://hci.stanford.edu/research/dtools/
+
+[^4]: The DOT framework was created by Koen Van Turnhout, researcher and lecturer at the HAN University of Applied Sciences. More info can be found via http://cmdmethods.nl/
+
+[^5]: http://theleanstartup.com/
+
+[^6]: https://know-cards.myshopify.com/products/ideation-pack
+
+[^7]: http://iotservicekit.com/
+
+[^8]: http://tilestoolkit.io/
