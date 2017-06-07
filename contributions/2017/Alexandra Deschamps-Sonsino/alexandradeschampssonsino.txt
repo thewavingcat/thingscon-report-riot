@@ -1,0 +1,19 @@
+TO DO
+- bio, photo
+
+
+
+# The Whole Internet of Things
+By Alexandra Deschamps-Sonsino
+
+I've been speaking at unusual conferences lately that have exposed me to very different points of view on the internet of things. In my world, shaped by my education and career, I get very interested in the 'thing' as the social object (to borrow from [Jyri Engestrom's use of the term back in 2005](https://en.wikipedia.org/wiki/Social_objects)). I'm excited about the craft of the 'thing', the manufacturing challenges in making a 'thing' connected, the good and less good application space the 'thing' presents to us. My point of view is very 'thing'-oriented. 
+
+But recently, I've been hanging out with people who think of the 'thing' as being just an element of a network that has to be designed and managed. No matter what the 'thing', the behaviour will probably be the same: Data will be acquired (at a predictable-ish rate), computed in the cloud or on the chip itself, a learning will be made of this data which can benefit someone somewhere else, and an action will be instigated through the 'thing' or digitally. If my challenge is to think up good ways to connect things, for these people the challenge is to 'know' the thing. To know it is to know how to manage it and its behaviour. 
+
+These are two diametrically opposite views of the 'thing'. One is specific and can only be successful because it is. The other is generalised because that's how a network is grown more rapidly. It's also how you manage cybersecurity problems, by ignoring the one thing to look at the network effect instead. 
+
+These opposite views create tensions in the discourse around the internet of things. People in the networks industry consider it simply an extension of their existing offer: More data. Entrepreneurs who are slaving away to make sure the thing is right for network connectivity are on a journey more akin to traditional product development, with the financing issues that relate to it. The problem is that the devil lies in the detail, every implementation is different, every product different. And worse, every connectivity situation is different. 
+
+I'm the founder of the Good Night Lamp and we really struggle with this. The connectivity capabilities within my customers' homes is different, their relationships to the product are different, and what a network partner can offer me is reactive support, not proactive support. Because the network itself doesn't know what a 'unusual' behaviour looks like. I've had to adapt my team dynamics to cater to this lack of network intelligence and profiling. That lack is in part due to budget restrictions, but that's very common in the hardware startup scene. This is also an opportunity for partnerships.  
+
+If we're going to be building bridges between communities of practitioners, we have to acknowledge that the issues aren't the same for everyone involved. But involving everyone is essential. Building knowledge and empathy around the issues will help resolve them more quickly and make for a more resilient industry —which can only lead to better products for consumers. 
