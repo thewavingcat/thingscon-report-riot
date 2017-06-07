@@ -10,8 +10,6 @@ This report is a collection of essays and articles by experts from a wide range 
 
 We see this is a first step on a longer journey—a kickoff if you will. We will keep adding to this collection: As the questions surrounding responsible IoT change, so will this project. We will continue to do this as much in the open as possible (see the section "Keep it open!" below).
 
-
-
 ### Table of content
 
 TK TOC linked to Medium posts
@@ -21,7 +19,7 @@ TK TOC linked to Medium posts
 We believe there is an inherent value in openness, and in working in public. 
 
 - **License:** All contributors kindly agreed to publish their pieces under a Creative Commons license ([CC by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/4.0/)), so you can share the content without asking permission. 
-- **Available online for free:** For comfortable reading, we published the content as a [series on Medium](TK LINK TO MEDIUM SERIES). It's a great platform for authors.
+- **Available online for free:** For comfortable reading, we publish this [on Medium](TK LINK TO MEDIUM). It's a great platform for authors.
 - **Powered by Github:** We also keep all content in a [Github repository](https://github.com/thewavingcat/thingscon-report-riot) (in Markdown) to make updating extra easy, and to allow for extra-easy future contributions and collaborative editing.
 
 ### Contributors
