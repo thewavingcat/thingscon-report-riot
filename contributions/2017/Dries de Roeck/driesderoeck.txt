@@ -53,7 +53,8 @@ Each of the 13 design processes we gathered this way was broken down using that 
 - Lastly, a *user* activity is anything that touches on users' involvement, like a trial session, or going out into the field to interview relevant people. 
 
 Putting all of that together, resulted in the following overview:
-![results_table_export.png](https://draftin.com:443/images/51825?token=AxqJciBzdc9W9Eps7T_WspPPeBjIQikjUkofcJiLbd0r1teGhp8jZHb4BckXWDOOPVnat97vKhmO_DcFq2i3IEw)
+
+/images/results_table_export.png
 
 ##A summary of findings
 

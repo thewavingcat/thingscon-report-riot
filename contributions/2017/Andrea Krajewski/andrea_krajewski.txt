@@ -1,0 +1,102 @@
+TO DO:
+- formatting
+	- images
+	- footnotes
+
+# User Centred IoT-Design
+By Prof. Andrea Krajewski
+
+With the new task of designing the Internet of Things, designers are confronted with radical paradigm shifts. Neither should they design objects, nor are they able to create “mandatory” or controlled experiences. Dominated by algorithms, the traditional design understanding becomes fuzzy in IoT. However, with their fundamental user orientation, designers are not only best prepared for a redefinition of design services for IoT, they have the opportunity to envision the future.
+
+**Letting the object go**
+
+User-centred design is, in short, a design process which focuses on users’ needs and wants. Applied under the more recent label “UX design” (short for User Experience Design) it focuses also on the experience of using products and services to meet those user needs and desires.
+
+/images/ux_principles1.jpg
+
+Whereas designing the use of a concrete digital or tangible object always has the very closed stage of the human-machine-relationship in mind, experience design opens the scope to the time before, during and after using an object. Since nobody ever defined how long before and after, user experience design could be regarded as the designer’s responsibility for embedding products and services into the lives and memories of users by adding practicability, joy, and a medium for self expression.
+
+However, the concept of experience design calls for designers to radically rethink their approach for the benefit of the users’ experiences. They should no longer concentrate solely on the product to be designed, but on the value chain of the individual user who has a certain aim or need. This means focusing on a whole process: Think “nourish my family so that my kids stay healthy, even though I have a full-time job“, instead of “how to operate a food processor”. 
+
+/images/ux_principles2.jpg
+
+But experience design is not solely a design matter. If business strategies are not aligned with the bigger picture of selling better processes—rather than better products—then no designer can deliver real experience design. 
+
+How does this apply to IoT? IoT should not be understood as a mere conglomeration of more or less smart objects, connected to the internet. No designer should design an isolated IoT object, but rather the process it is embedded in.
+
+**Engaging the user**
+
+If you interpreted the use of an object as a kind of micro experience, it would seem easy enough to design. Even broader experiences would be relatively simple to design, for example by adding service design to the mission. However, the concept of experience is no such simple theoretical construct.
+
+Experiencing (as a verb) happens in the one moment of use, an experience (as a noun) doesn’t unfold its full value before it has been brought into the context of memories, dreams, and emotions of an individual. 
+
+Experiences are always individual and are created by nobody other than the users themselves. Psychologist and professor at the Ohio State University Dr. Elizabeth Sanders even explicitly negates the term “experience design“: “There is no such thing as experience design. You can’t design experience because experiencing is in people. You can design for experiencing, however. You can design the scaffolding or infrastructure that people can use to create their own experiences.” (Sanders, 2001)
+
+Dr. Marc Hassenzahl, Psychologist and professor at the University Siegen, considers things (and technology) as an omnipresent companion in our daily lives. He ascertains that they “play a role as facilitator, creator and mediator of experiences. In retrospect, some of them will even define our selves. […] By that, technology gets its meaning through providing experiences, which in turn are crucial ingredients of our identities.“ (Hassenzahl 2010) 
+
+In summary, experience designers have a great responsibility. They facilitate the environment to enable users to autonomously create their own individual experiences (and—following Dr. Hassenzahl—thereby their identities). Thus experience design is not only “user-centred“, but also nearly “individual-centred“. 
+
+This doesn’t suggest that design should embrace every thinkable single user and turn back to custom-built machinery. But the viewpoint cited above changes another traditional task of designers: They are no longer responsible for a particular experience, predefined by design. Instead they should equip users with tools that turn them into makers of their own individual experiences. 
+
+**Designing the organism**
+
+In a sense, this turns the experience designer into something akin to an architect, because they create—let’s say—the emotional living space of a human. Today, hardly any UX designers consider themselves in the position to think that broadly. But designing for the Internet of Things might bring about an essential paradigm change. The notion of an infrastructure for experiences and emotions brings us fairly close to the vision of daily life amidst connected objects—be it in our home, at work, or in public space—called the Internet of Things. 
+
+Traditionally, the tasks of a designer were more or less limited to the idea of creating one product—be it digital (software, app, website, …) or tactile (furniture, accessory, clothing, electronic devices, machines, …). However, designing for IoT neither means designing a single “smart” product connected to the internet, nor designing the interface of this product. Designing for IoT in the long run cannot ignore its systemic character. 
+
+/images/ux_principles3.jpg
+
+**Redefining the future**
+
+How can experiences be triggered? Kennon Sheldon and his colleagues isolated ten psychological needs that—if fulfilled—are responsible for positive experiences: 
+
+01.	Autonomy / independence
+Only you alone but no external forces determine your action.
+02.	Competence / effectance
+You feel capable and effective rather than incompetent or ineffective.
+03.	Relatedness / belonging
+You are in regular close contact to people who care about you.
+04.	Self-actualizing / meaning
+You feel your life is meaningful because you develop your best potentials.
+05.	Security / control
+You feel safe and control your life.
+06.	Money / luxury
+You feel that you can buy what you want.
+07.	Influence / popularity
+You feel liked, respected, and as an influencer.
+08.	Physical thriving
+You feel healthy and in well taken care off.
+09.	Self-esteem / self-respect
+You feel like a worthy person, as good as anyone else.
+10.	Pleasure-stimulation
+You feel enjoyment and pleasure rather than boredom and under-stimulation.
+
+In short: We feel fine if we determine our own life, without getting bored; If we get respect from others as well as attention from our intimates; And last but not least, if we are healthy and in a reasonably good financial state. 
+
+Isn’t it hilarious that nearly any need on that list is on the verge of colliding with the  idea of IoT and adjacent technologies? The future interconnectedness of our complete habitat incapacitates the user under the guise of convenience. For now, a connected home or workspace is so expensive that only the rich can afford it. Artificial intelligence in combination with conversational interfaces might sooner or later substitute our social relationships to humans. Long-established skimming strategies squeeze the data out of the user and convert them from former centre to future product. Let’s face it: If nobody puts an end to the unnatural separation of humans and their own data, then living in an ever-observant IoT will expose the user to the data industry without a defence. 
+
+/images/ux_dependencies4.jpg
+
+In their paper “From the Internet of Computers to the Internet of Things”, Friedemann Mattern and Christian Floerkemeier stated that the internet has already changed from a technological to a socio-technological system with social, creative and political dimensions. But with the development of IoT, the importance of its non-technological aspects is becoming even more apparent since it adds an entirely new quality to these non-technological aspects (Mattern, Floerkemeier, 2010). So where are those aspects? Unfortunately, our vision for the future so far is driven by a technical utopia we haven’t significantly updated since the 1950s. The German philosopher Harald Welzer states that we are still under the influence of a technology-optimistic image of our future that actually expired as we reached all the defined technological visions. 
+We obviously never reviewed our vision for the need to be updated. 
+
+Now, we celebrate the IoT as the fulfilled dreams in which only time travelling is still in the air. Technology no longer meets our dreams of the future. Welzer accuses that today we are missing particularly a social utopia: “The world we inhabit made our utopian horizon so narrow that for us the vision of the future is reduced to presence with other means. We need to transform ourselves to be able to build a new vision of the future.” (Welzer, 2012)
+
+Designing for IoT means not only to know but also to deliberately counter the destructive effects of autonomously-working connected products for humans. Instead of getting high by implementing very latest technology, designers should rather think about staging smart objects in the Internet of Things as experience tools, deliberately conceptualized as antagonist of an out-dated technological golden calf. The concepts should facilitate self-determination, self-expression, social connection, intellectual and physical challenge, as well as health and safety of users’ future lives.
+
+Designing for IoT requires a radically updated vision of the future. A future in which technology isn’t the trigger for the concept of a self determined, social, meaningful and fulfilled life. I can only hope that designers pick up the ball being passed towards them.
+
+
+**Sources**
+
+Ashton, Kevin (2009): “That 'Internet of Things' Thing”, http://www.rfidjournal.com/articles/view?4986, last accessed at May, 9th
+
+Hassenzahl, Marc: “Experience Design – Technology for All Rights Reason” (2010), Morgan & Claypool Publishers
+Mattern, Friedemann; Floerkemeier, Christian (2010): “From the Internet of Computers to the Internet of Things.“, 1. Ed. SystemsGroup, Institute of Pervasive Computing, http://www.vs.inf.ethz.ch/publ/papers/Internet-of-things.pdf, last accessed at May, 9th
+
+Sanders, Elisabeth B.-N. (2001): “Virtuosos of the experience domain“ In Proceedings of the 2001 IDSA Education Conference. http://www.maketools.com/articles-papers/VirtuososoftheExperienceDomain_Sanders_01.pdf, last accessed at May, 9th
+
+Sheldon, K.M., Elliott, A.J., Kim, Y., Kasser, T. (2001): “What is satisfying about satisfying events? Testing 10 candidate psychological needs. Journal of Personality and Social Psychology 80(2):325-39 · March 2001
+
+Welzer, Harald (2012): “Beschränkt euch!”, Süddeutsche Zeitung, Heft 39/2012 . Gesellschaft/Leben, http://sz-magazin.sueddeutsche.de/texte/anzeigen/38551/Beschraenkt-euch, last accessed at May, 9th
+
