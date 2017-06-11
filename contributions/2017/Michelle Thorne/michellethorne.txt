@@ -1,5 +1,5 @@
 # Internet Health and IoT
-By Michelle Thorne, Program Lead for Mozilla’s Open IoT Studio
+By Michelle Thorne
  
 > “The true impact of activism may not be felt for a generation. That alone is reason to fight, rather than surrender to despair.”
 > — Rebecca Solnit, The Guardian[^1]
@@ -43,3 +43,7 @@ As IoT practitioners and advocates for a healthy internet, we must ask what impa
 [^6]: Read more about Mozilla’s position and research on internet health in our Internet Health Report: [https://internethealthreport.org](https://internethealthreport.org). 
 
 [^7]: See “The IoT is IT in progress” and other articles about IoT and the new hardware by O’Reilly: [https://www.oreilly.com/ideas/the-iot-is-it-in-progress ](https://www.oreilly.com/ideas/the-iot-is-it-in-progress)
+
+---
+
+[Michelle Thorne](https://twitter.com/thornet) leads [Mozilla’s Open Internet of Things Studio](https://twitter.com/openiotstudio), a professional learning network committed to making IoT more open. She’s published [Understanding the Connected Home](https://theconnectedhome.org) and regularly facilitates programs that advocate for equality through digital empowerment and innovation through open, collaborative practices. She’s based in Berlin, Germany.

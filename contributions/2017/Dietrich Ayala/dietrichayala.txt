@@ -56,9 +56,9 @@ And that's where things start to break down.
 
 **Social Motivators and the Breakdown of Civilization**
 
-Social in wearables and fitness software is weird. There are the usual affordances, such as "liking" activities, occasionally some leaderboards, and sometimes advanced features like ghosting or realtime tracking. Social interactions are purportedly the motivator for us to do more - a positive feedback loop.
+Social in wearables and fitness software is weird. There are the usual affordances, such as "liking" activities, occasionally some leaderboards, and sometimes advanced features like ghosting or realtime tracking. Social interactions are purportedly the motivator for us to do more–a positive feedback loop.
 
-The idea is that people give us positive feedback on our workouts and that encourages us to do more of them. But what's the endgame of "likes"? Is there actually a use-case for *not* liking a friend's run? Maybe we're supposed to like it only when our friends push themselves past a prior achievement? But the software doesn't support that - never do you see the difference between the new run and the last. Based on popular fitness software, I'm skeptical that wearables designers are intending for this to be the use-case, even though it makes a little more sense than the infinite-likes case. 
+The idea is that people give us positive feedback on our workouts and that encourages us to do more of them. But what's the endgame of "likes"? Is there actually a use-case for *not* liking a friend's run? Maybe we're supposed to like it only when our friends push themselves past a prior achievement? But the software doesn't support that–never do you see the difference between the new run and the last. Based on popular fitness software, I'm skeptical that wearables designers are intending for this to be the use-case, even though it makes a little more sense than the infinite-likes case. 
  If the intent is likes-as-motivation, then the design has resulted in a guilt trap: Not liking someone's run feels *bad*. If we assume that wearables designers are acting with ill intent, we can speculate that this guilt trap is *intentional*. It serves to increase app engagement through negative comeback-sauce.
  
 Yikes. I think I'll sleep better at night by presuming a bolted-on design for infinite likes.
@@ -84,19 +84,25 @@ If you're designing fitness or wearable or social software, here are some patter
 
 *Data Agency:* Trust your users. Let them be human. Err on the side of user control. Make sure you understand the cost of social policing. No matter what you do, cheaters are gonna cheat, haters gonna hate and you have to trust that cheaters *never* win, especially with fitness.
 
-*Social Features:* Find ways to amplify your users' focus on achieving their fitness goals. Are you trading off core functionality for social? Make sure you're not creating negative emotional feedback loops or guilt traps. Social features require meaning, or you risk creating hamster wheel behaviors that aren't sustainable - users will eventually move along to some other solution.
+*Social Features:* Find ways to amplify your users' focus on achieving their fitness goals. Are you trading off core functionality for social? Make sure you're not creating negative emotional feedback loops or guilt traps. Social features require meaning, or you risk creating hamster wheel behaviors that aren't sustainable–users will eventually move along to some other solution.
 
 *Footgun Avoidance:* Editing of data isn't simple, and is difficult to get just right. There are risks when enabling this level of user control, such as users accidentally destroying their own data. Make clear to users what the impact of their changes are. Make sure users are able to review and undo their changes. Ensure editing is the fallback experience, not the default. It should be only a safety net, or your software becomes work instead of fun.
 
-*Intent is Pure Gold:* What do your visual affordances say about your users' intent? Use the hell out of that. For example, if you have multiple steps to start recording and it hasn’t started yet, make that extremely clear. If you track acceleration and the user stopped moving, ask them what they want to do.
+*Intent is Pure Gold:* What do your visual affordances say about your users' intent? Use the hell out of that. For example, if you have multiple steps to start recording and it hasn't started yet, make that extremely clear. If you track acceleration and the user stopped moving, ask them what they want to do.
 
-*Unambiguous Feedback:* The big red "record" icon. The red mark of madness. It’s the bare minimum to convey recording, so make it loud and proud. Add any other feedback that makes unambiguously clear that user intent has been actualized: countdown clocks, spinners, sounds, vibration, electric shocks, strange smells.
+*Unambiguous Feedback:* The big red "record" icon. The red mark of madness. It's the bare minimum to convey recording, so make it loud and proud. Add any other feedback that makes unambiguously clear that user intent has been actualized: countdown clocks, spinners, sounds, vibration, electric shocks, strange smells.
 
 ![record icons](https://i.imgur.com/eYmHDTU.png)
 
 **Fitness Forward**
 
-The world of wearables is just beginning. The hardware is still simplistic - it doesn't *get* us yet, so requires a lot of software and our human intervention to make even the basics work. In addition, the cognitive psychology of fitness is extremely complex. If you're designing in this space, keep your eyes on the prize: People want to get fit first. Focus on that user goal in all aspects of your product design, and you'll have a chance at staying human and treating your users like people too.
+The world of wearables is just beginning. The hardware is still simplistic–it doesn't *get* us yet, so requires a lot of software and our human intervention to make even the basics work. In addition, the cognitive psychology of fitness is extremely complex. If you're designing in this space, keep your eyes on the prize: People want to get fit first. Focus on that user goal in all aspects of your product design, and you'll have a chance at staying human and treating your users like people too.
 
 ![me and mozilla](https://i.imgur.com/uYP7ufk.png)
+
+---
+[Dietrich Ayala](https://twitter.com/dietrich) has been working for internet freedom for over a
+decade at Mozilla, the non-profit makers of the Firefox web browser, where's he's shipped open source software to hundreds of millions of
+people. A developer, writer and speaker, he's currently traveling Asia helping schools, businesses and governments use the web to make
+emerging technologies like IoT, AR and VR accessible to everyone.
 

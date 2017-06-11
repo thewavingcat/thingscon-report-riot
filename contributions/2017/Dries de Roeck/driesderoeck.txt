@@ -29,7 +29,7 @@ This observation is also one of the driving factors behind the ThingsCon mission
 
 Deliberately creating responsible IoT product with meaning is easier said than done. What can be observed in current design practice is that people and companies are very much in the process of figuring things out. 
 On one hand, companies that have always done digital product design are moving into designing with hardware. On the other hand, physical product companies are now increasingly involved in digital design projects.
-Interestingly, a physical product design process is very different compared to a digital product design process - yet both 'process backgrounds' are being applied to designing Internet of Things products. 
+Interestingly, a physical product design process is very different compared to a digital product design process—yet both 'process backgrounds' are being applied to designing Internet of Things products. 
 
 This leads us to ask whether there is a product design process specific to IoT, and if so, what it would consist of? In order to help people in design and development to create more meaningful internet connected products, it's essential to answer this question.
 
@@ -38,7 +38,7 @@ This leads us to ask whether there is a product design process specific to IoT, 
 We set out to develop a better understanding of how IoT products are being created in practice, which issues companies struggle with, and how these struggles could be overcome.
 
 In a study in collaboration with 13 IoT startups from the ThingsCon network across 3 major European cities—London, Amsterdam and Berlin—we set up sessions with 4 to 5 startups in each city.
-During these sessions, the prime focus was on creating a visualized timeline of the design process linked to each  startup’s product. Afterwards, all gathered processes were analyzed using the 'Development Oriented Triangulation' framework[^4] (DOT), which focuses on breaking down design processes into 5 different categories:
+During these sessions, the prime focus was on creating a visualized timeline of the design process linked to each startup's product. Afterwards, all gathered processes were analyzed using the 'Development Oriented Triangulation' framework[^4] (DOT), which focuses on breaking down design processes into 5 different categories:
 
 - *Library*: A 'static' research activity, such as looking up existing work or analyzing existing data.
 - *Field*: Going out into the field to observe, trial, or explore something in content.
@@ -63,13 +63,13 @@ In a 'traditional' human centered design process, the starting point would be an
 What was perhaps most striking about this finding is that over half of the studied companies expressed that involving users, and working in a user-centered way in earlier phases, is something they missed looking back. 
 Turns out that startups often aren't aware of the value of a user-centered approach at the outset, or don't know how to get the most value out of user-centered activities in their design process.
 
-Secondly, the 13 design IoT design processes we analyzed  showed a wide variety of applied strategies. More importantly, almost all processes iterated between strategies. This shows that the design processes happened in an iterative way: Startups demonstrate a clear willingness to reformulate and tweak initial ideas.
+Secondly, the 13 design IoT design processes we analyzed showed a wide variety of applied strategies. More importantly, almost all processes iterated between strategies. This shows that the design processes happened in an iterative way: Startups demonstrate a clear willingness to reformulate and tweak initial ideas.
 However, none of the startups we interviewed went through these iterations *consciously and deliberately*. 
 This implies that during design and development within IoT startups, there is very little meta thinking about design processes and activities. Most steps are taken ad-hoc.
 
 Lastly, we identified two common design patterns in our data. Both start with a workshop activity, and then move on to either a showroom or lab activity. (The DOT framework[^1] refers to these as (partial) rigor cycles and (partial) validated solutions respectively.)
 Typically, a workshop activity generates a new proposition. These propositions are then validated or invalidated by a group of experts or end users. 
-It might appear rather common to work in this way, but we found that most of these activities were driven by investor pitches or other funding related deadlines. This  highlights the turbulent environment IoT startups operate in, which often do not allow them to follow a pre-planned, more deliberate design process.
+It might appear rather common to work in this way, but we found that most of these activities were driven by investor pitches or other funding related deadlines. This highlights the turbulent environment IoT startups operate in, which often do not allow them to follow a pre-planned, more deliberate design process.
 
 ##tl;dr
 
@@ -80,15 +80,15 @@ After analyzing 13 IoT design processes, it was apparent that only two of them s
 
 ##Onwards, to lightweight futures
 
-Within a startup context there is little tradition of having a deep understanding of users in an early stage in the project. Dominant ‘lean startup’[^5] methodology puts a lot of emphasis on creating a ‘minimal viable product’ (MVP). This MVP becomes a tool or prototype that is used to understand the product's potential end users. Looking at our design process data, this way of working often results in...
+Within a startup context there is little tradition of having a deep understanding of users in an early stage in the project. Dominant 'lean startup'[^5] methodology puts a lot of emphasis on creating a 'minimal viable product' (MVP). This MVP becomes a tool or prototype that is used to understand the product's potential end users. Looking at our design process data, this way of working often results in...
 
-- realizing who a company’s actual end-users are at a very late phase in the process.
+- realizing who a company's actual end-users are at a very late phase in the process.
 - being uncertain about how to involve stakeholders to inform the design process.
 
 Additionally, the fast-changing environment startups operate in makes it difficult to predict future design process steps. 
 Traditional human-centered design methodology often conceptualizes design as a pre-planned process. The reality for many startups, however, is that they work from funding round to funding round, and thus cannot plan ahead as much as needed. When proposing methodologies for IoT startups we need to take this reality into account.
 
-A plausible resolution can be found in ‘lightweight’ stakeholder involvement methods that have been explored by academics and practitioners. A lot of work is happening towards providing organizations with more flexible tools to help out in designing IoT products. Some good starting points are:
+A plausible resolution can be found in 'lightweight' stakeholder involvement methods that have been explored by academics and practitioners. A lot of work is happening towards providing organizations with more flexible tools to help out in designing IoT products. Some good starting points are:
 
 - IoT Ideation toolkit[^6] by Studio Dott and Knowcards
 - IoT Service kit[^7] by Futurice
@@ -113,3 +113,6 @@ It is important to point out that tools like these are not the holy grail of *th
 [^7]: http://iotservicekit.com/
 
 [^8]: http://tilestoolkit.io/
+
+---
+[Dries de Roeck](http://twitter.com/driesderoeck) is a next generation alchemist, moving back and forth between the design and research field. He leads all things research at the creative agency [Studio Dott](http://www.studiodott.be/) in Antwerp, Belgium. He is interested in the way people use and adapt technology in their day to day context, and how this can be an inspiration towards more humane & meaningful network connected products. As part of his ongoing PhD research he created the 'IoT Ideation cards', a personalisable deck of cards to conceptualise internet connected products.

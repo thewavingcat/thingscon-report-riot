@@ -1,8 +1,3 @@
-TO DO
-- bio, photo
-
-
-
 # The Whole Internet of Things
 By Alexandra Deschamps-Sonsino
 
@@ -17,3 +12,10 @@ These opposite views create tensions in the discourse around the internet of thi
 I'm the founder of the Good Night Lamp and we really struggle with this. The connectivity capabilities within my customers' homes is different, their relationships to the product are different, and what a network partner can offer me is reactive support, not proactive support. Because the network itself doesn't know what a 'unusual' behaviour looks like. I've had to adapt my team dynamics to cater to this lack of network intelligence and profiling. That lack is in part due to budget restrictions, but that's very common in the hardware startup scene. This is also an opportunity for partnerships.  
 
 If we're going to be building bridges between communities of practitioners, we have to acknowledge that the issues aren't the same for everyone involved. But involving everyone is essential. Building knowledge and empathy around the issues will help resolve them more quickly and make for a more resilient industry —which can only lead to better products for consumers. 
+
+---
+[Alexandra Deschamps-Sonsino](http://twitter.com/iotwatch) is an interaction designer, product designer, entrepreneur based in London and director of [designswarm](http://designswarm.com).  
+She was named 1st in a list of 100 Internet of Things Influencers (Postscapes, 2016), 2nd in Top 100 Internet of Things Thought Leaders (Onalytica, 2014) and in the Top 100 Influencial Tech Women on Twitter (Business Insider, 2014).   
+She is the founder of the Good Night Lamp, connected lamps for your global friends and family. She was co-founder and CEO of Tinker London, a smart product design studio. Tinker was the first distributor of the Arduino platform in the UK.   
+She has been running the London Internet of Things meetup since 2011, the second largest meetup on that topic in the world. Her work has been exhibited at the Museum of Modern Art in New York, the Victoria & Albert Museum, the London Design Museum and galleries around the world.     
+She is part of the Mozilla Leadership Network Advisory Group on the board of the Virt-EU project and an advisor to many startups.

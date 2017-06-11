@@ -63,3 +63,7 @@ In designing the next generation of intelligent things we are also designing a s
 [^1]: Robbins, H. (2015). Disrupting the device paradigm: designing for mutual praxis in connected objects. 
 [^2]: Ishii, H. (2007). Tangible user interfaces. CRC Press. 
 [^3]: Cila, N. [Products as Agents: Metaphors for designing the products of the IoT age](http://dl.acm.org/citation.cfm?id=3025797).
+
+---
+[Iskander Smit](http://twitter.com/iskandr) is working at agency [Info.nl](http://info.nl) in Amsterdam, that designs and develops digital services. Iskander is responsible for research and development and leading [labs.info.nl](http://labs.info.nl). This R&D department dedicated to new developments, and emerging connected technologies. Labs conducts research and experiments on the internet that enters our daily life and how we interact beyond the screen. Among others, Labs is partner in a research project together with the University of Applied Science Amsterdam on the role of vibro-stimuli as digital coaching and mediated social interactions (the internet of touch) for health related topics.    
+Iskander has a background as Industrial Design Engineer and have been working as creative and strategist in digital services. He is member of Council Internet of Things and co-founder of the Behavior Design AMS meetup. He initiated and co-organises the [Amsterdam edition of ThingsCon](http://thingscon.nl).
