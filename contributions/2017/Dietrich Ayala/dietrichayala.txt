@@ -1,0 +1,102 @@
+# Trust, Lies and Fitness Wearables
+by Dietrich Ayala
+
+ I'm almost done. 
+ Lungs. Pure. Fire. 
+ I feel sick. 
+ Why did I do this. It's Saturday FFS. 
+ Just a few seconds more. 
+ To the top of the hill. 
+ Almost there... aaaand done. 
+ Breathe. Breathe. Breathe. 
+ The hill at the end of this trail run is the fucking worst. 
+ Ok, check my time... 
+ ARRGGGGHHH. 
+ Forgot to restart the run after the last stop! 
+ Why do I even DO this. 
+ Grumble, rage, sob.
+
+![Screenshot of @dietrich tweeting about failing to record on his Garmin 235 running watch](https://i.imgur.com/FCTCkDL.png)
+
+Has this ever happened to you? You put all you have into a run, workout, hike or a bike ride, only to find that your self-tracking technology failed somehow.
+
+Wearables are a complex orchestration of multiple computers, each with a host of sensors, and with data sent over multiple radios. Consumer-grade fitness wearables are a distributed computing deployment, but covered in dirt and human body fluid.
+ There are SO many things that can go wrong: dead battery, GPS disconnect, Bluetooth pairing failure, and all that's on top of the regular software bugs and user experience and interaction design flaws.
+
+The technology is imperfect.
+And so are we.
+
+Sure, some of these problems could be blamed on the user. But the recorded data? Well, it's just that: Data. Editable, fungible, malleable data. And it's yours.
+
+Or is it?
+
+There's no "edit" button in these types of apps. If there's a problem, you can't fix it.
+
+Why can't we edit our own data?
+
+Because doing so would make you a liar. You might say you exercised on days you didn't, or extend that run a bit longer.
+You might be a cheater.
+You can't be trusted.
+
+![Image of map with my actual route, and failure points.](https://i.imgur.com/4saGFBl.png)
+
+**Why Fitness Wearables?**
+
+The purpose of fitness wearables, first and foremost, is human health.
+
+Whether it's coarse-grained step-counting in a 10USD Mi Band bracelet or a 600USD Garmin watch that tracks your heart rate and speaks to satellites in space, the intent of the user is generally to track their physical activity over time, in order to achieve fitness goals.
+
+Does your design enable your users to focus on that goal?
+
+Most devices are paired with an app which connects to service, which in turn connects you to other people, in order to create a community that want to help each other get healthy and fit.
+
+And that's where things start to break down.
+
+![Me, lagging behind.](https://i.imgur.com/AGPiUYt.jpg)
+
+**Social Motivators and the Breakdown of Civilization**
+
+Social in wearables and fitness software is weird. There are the usual affordances, such as "liking" activities, occasionally some leaderboards, and sometimes advanced features like ghosting or realtime tracking. Social interactions are purportedly the motivator for us to do more - a positive feedback loop.
+
+The idea is that people give us positive feedback on our workouts and that encourages us to do more of them. But what's the endgame of "likes"? Is there actually a use-case for *not* liking a friend's run? Maybe we're supposed to like it only when our friends push themselves past a prior achievement? But the software doesn't support that - never do you see the difference between the new run and the last. Based on popular fitness software, I'm skeptical that wearables designers are intending for this to be the use-case, even though it makes a little more sense than the infinite-likes case. 
+ If the intent is likes-as-motivation, then the design has resulted in a guilt trap: Not liking someone's run feels *bad*. If we assume that wearables designers are acting with ill intent, we can speculate that this guilt trap is *intentional*. It serves to increase app engagement through negative comeback-sauce.
+ 
+Yikes. I think I'll sleep better at night by presuming a bolted-on design for infinite likes.
+ 
+![—Ancient proverb](https://i.imgur.com/uHHVP1E.png)
+
+Another motivator is seeing others' accomplishments. "They ran my trail three minutes faster than me?! I'll beat them tomorrow!" This motivator absolutely relies on accurate data. What if we don't believe that the record-holding user ran this trail segment in the time stated on the leaderboard?
+ These motivators may or may not be effective, but ultimately rely on the basic tracking features to be functional, and the data to be accurate. Otherwise your run tomorrow might stop recording and it'll look like you ran half as long... the horror!
+
+Now we're stuck: Our social motivators rely on the perception of accurate data, but the technology might fail us and we might fail the technology, resulting in innacurate data. If we allow editable data, we allow for the perception of innacurate data in social features.
+
+Cheaters never win. Especially when it comes to fitness. By lying about your fitness achievements, you're guaranteed to not gain the fitness benefits of your effort, no matter the social optics.
+
+We trust the people in our fitness social circle, right? Mostly? Maybe? If you don't let users to edit their data because you're worried about cheating, then you're designing for a user that doesn't trust their friends.
+ 
+Power dynamics in design are common, and avoidable. Take a look at the personas you're designing for. Is there one called "Cheater"? If not, why are you designing for that use-case? If I cannot edit my own data, you've implicitly said you don't trust me. Or you're putting your product needs above my user needs. Is it about me or about you?
+
+![Wildwood trail series](https://i.imgur.com/KLkpNRo.png)
+
+**Positive Patterns**
+
+If you're designing fitness or wearable or social software, here are some patterns for building user-trust.
+
+*Data Agency:* Trust your users. Let them be human. Err on the side of user control. Make sure you understand the cost of social policing. No matter what you do, cheaters are gonna cheat, haters gonna hate and you have to trust that cheaters *never* win, especially with fitness.
+
+*Social Features:* Find ways to amplify your users' focus on achieving their fitness goals. Are you trading off core functionality for social? Make sure you're not creating negative emotional feedback loops or guilt traps. Social features require meaning, or you risk creating hamster wheel behaviors that aren't sustainable - users will eventually move along to some other solution.
+
+*Footgun Avoidance:* Editing of data isn't simple, and is difficult to get just right. There are risks when enabling this level of user control, such as users accidentally destroying their own data. Make clear to users what the impact of their changes are. Make sure users are able to review and undo their changes. Ensure editing is the fallback experience, not the default. It should be only a safety net, or your software becomes work instead of fun.
+
+*Intent is Pure Gold:* What do your visual affordances say about your users' intent? Use the hell out of that. For example, if you have multiple steps to start recording and it hasn’t started yet, make that extremely clear. If you track acceleration and the user stopped moving, ask them what they want to do.
+
+*Unambiguous Feedback:* The big red "record" icon. The red mark of madness. It’s the bare minimum to convey recording, so make it loud and proud. Add any other feedback that makes unambiguously clear that user intent has been actualized: countdown clocks, spinners, sounds, vibration, electric shocks, strange smells.
+
+![record icons](https://i.imgur.com/eYmHDTU.png)
+
+**Fitness Forward**
+
+The world of wearables is just beginning. The hardware is still simplistic - it doesn't *get* us yet, so requires a lot of software and our human intervention to make even the basics work. In addition, the cognitive psychology of fitness is extremely complex. If you're designing in this space, keep your eyes on the prize: People want to get fit first. Focus on that user goal in all aspects of your product design, and you'll have a chance at staying human and treating your users like people too.
+
+![me and mozilla](https://i.imgur.com/uYP7ufk.png)
+
