@@ -1,0 +1,50 @@
+# IoT in Africa: Are we waiting to consume for sustainable development?
+By Jorge Appiah
+
+As the world enters into the 4th Industrial age, the Internet of Things is identified to be a key driver with an estimation of more than 24 billion IoT devices on Earth by 2020. That's approximately four devices for every human being on the planet. As we approach that point, $6 billion are predicted to flow into IoT solutions, including application development, device hardware, system integration, data storage, security, and connectivity.  Those investments might generate $13 trillion by 2025.[^McKinsey]
+
+Africa’s adaption of technology has been both positive and relatively slow in most cases. As the world moves to the era of the 4th industrial age, Africa cannot afford to fall behind as in a global village, the impact of the disruption of industries and jobs will be largely felt by Africans. They will suffer the most due to the negative consequence  such as loss of traditional and low skills-level jobs increasing it unemployment of the age of industry 4.0.
+These new technologies, with IoT being a key, will redefine jobs and industries of the future. As such the human capital of Africa has to be developed to meet the needs of both the present and future.
+
+On the positive side, new technologies of the future offer developing countries in Africa an opportunity to leapfrog the business-as-usual way of solving problems towards a low-cost, efficient, sustainable, inclusive and sometime green approach. Also, this new opportunity IoT presents can bring about economic empowerment through sustainable job creation and a new channel to tackle poverty in developing countries.
+
+**What will it be: inclusive and sustainable growth through technology? Or high consumption induced growth with high poverty rate?**
+
+Africa’s slow economic growth, declining production rate with increasing urbanization but increasing consumption rates, gives possible indications that this economic growth was and might be an unsustainable consumption-based one, which fails to reduce poverty, fails to create more sustainable jobs and increases inequality.[^WEF]
+With the 4th industrial age accelerating the rate of globalisation, efficient logistics and automation, the unavoidable questions which need to be addressed by Africans are:
+
+1. Will the Internet of Things (IoT) or technology in general increase the digital and economic divide?
+2. Will Africa's poverty woes be compounded due to our consumption dependent-economy by increasing our consumption of IoT services, technology solutions and products?
+3. Will inequality and lack of equity among underprivileged and poor communities/countries increase? 
+
+**A call for inclusive participation in the IoT industry boom through a production and prosumer approach**
+
+With the label “emerging market”, a youthful population and a growing consumer base due to an increase in its middle class and their earnings, most foreign tech companies are moving to sell their products or bring their services to Africa to make some good money and grow their companies profits for shareholders. In 2015, Facebook opened an Ads bureau office in South Africa, it's first office on the continent, to help grow its revenue. It is estimated that in Q3 of 2015, 20% of the total 50% of Facebook’s ‘overseas’ ad revenue came from Africa and South America. With the estimated 120 million active users from Africa, Facebook was making $0.8 per active user, resulting in 96 million USD revenue from Africa in Q3 2015.[^Business Insider] Sadly, most of this revenue generated went directly to Facebook as profit as most of the African countries do not gain from taxes or the re-investment of such revenue locally by Facebook.
+
+A similar story is developing in the IoT industry in Africa. The continent's slowness to build local manufacturing capacity and create local innovations is leading foreign companies, investors, government agencies and big corporate bodies to bring in ready-made IoT solutions and services to serve the growing market and needs for such solutions and services. At the heart of promoting this consumption-based IoT market and industry in Africa are impatient big corporate entities, both local and multi-nationals, investors and government agencies focusing solely on short term gains and capitalizing on the early available market with growing demand for IoT solutions.
+
+Not to unnecessarily condemn selling imported IoT solutions and services, but as has been established with the general economic growth outlook of Africa, a more sustainable approach would be to invest also in building local capacity for the production of this IoT solutions for long term success, boost the local economy, create sustainable jobs and achieve inclusive development. 
+
+The practice of relying solely on imported solutions goes beyond just economics, creating local employment and achieving sustainable growth but also borders on security issues, data privacy and ethical usage of user data. The case of the botnet attack using Chinese made IoT devices on servers of Dyn, a company that controls much of the internet’s domain name system (DNS) infrastructure servers, which took down huge part of Internet during the last year is an early warning about the security of imported IoT devices. 
+
+Also policies and regulations are difficult to implement on imported devices and services who maintain their data servers outside the continent, out of the reach of our data protection laws and regulations. This situation puts African consumers at risk and danger of being exploited by foreign IoT solutions providers. There have been a number of cases where user data of IoT devices including GPS trackers, security doors, health trackers store the generated data on servers in China or other parts of the world. This practise also does not guarantee ethical usage of user generated data as usage is left to the discretion of the service providers. In most cases, this means tracking consumer behaviour for advertising and marketing purposes without permission from the users. 
+
+Lastly, a thriving and robust local IoT industry would ensure a long term sustainable consumption of IoT products due to availability of skilled personnel and accessible product knowledge for maintenance, repairs and reuse. 
+
+A prosumer approach, where Africans don't only represent a consuming market for IoT solutions but a production market, will help us to produce what we consume. Such a prosumer approach also ensures appropriate solutions and a reduction in waste due to the ability to repair & reuse and ensure respectful data privacy policies by local companies. 
+
+To implement such a prosumer approach to IoT design, deployment and consumption, the following suggestive measures can help:
+
+1. Investment in building local capacity for IoT solutions by investors and corporate bodies seeking to capture portions of the IoT market.
+2. Policies to serve as incentives for investing into building the local IoT industry by investors and corporate bodies
+3. Support for education and skills training programs in IoT at universities, technical universities and high schools to build needed skilled labour for the IoT manufacturing industry. 
+4. Adapting policies and ensuring its enforcement for the protection of user generated data at the local point of generation and the ethical usages of such data.
+5. Procurement policies to ensure government agencies and businesses prioritise purchasing local IoT solutions over imported ones 
+
+In our current situation, if our approach to IoT adaptation and consumption is re-oriented to include local production of locally needed IoT solutions, not only will it help boost the macro-economy as a long term solution but also for the short term deliverables such as employment for the youth, safe IoT solutions and ethical conscious usage of data for Africans. 
+
+[^WEF]: [3 reasons things are looking up for African economies](https://www.weforum.org/agenda/2016/05/what-s-the-future-of-economic-growth-in-africa/) 
+
+[^McKinsey]: [The Internet of Things: Sizing up the opportunity](http://www.mckinsey.com/industries/semiconductors/our-insights/the-internet-of-things-sizing-up-the-opportunity)
+
+[^Business Insider]: [Here’s Why Facebook’s Why Facebook’ new office in Africa is vital to the company’s future ](http://www.businessinsider.com/facebook-new-sales-office-in-africa-arpu-2015-6)
