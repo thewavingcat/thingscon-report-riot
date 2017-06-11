@@ -1,0 +1,85 @@
+# Design and branding: what rights do you own and what pitfalls should you watch out for?
+By Rosie Burbidge
+
+
+Intellectual property rights are essential for all businesses but the Internet of Things is relatively unusual in engaging all intellectual property rights in more or less equal measure. 
+
+**What can you protect?**
+
+**A. Automatic rights which do not require registration**
+
+You own more intellectual property rights than you think. Many of them arise automatically with no effort on your part beyond maintaining good records of the development process.
+
+*Copyright*
+
+Every time you or one of your employees creates something in the course of employment that output will be protected by copyright and owned by the business. For example, a written document describing a new product, diagrams CAD or hand drawings of that product and photographs of the finished article. It can even cover things which you might not normally associate with copyright such as a database. 
+
+Copyright is a very versatile right. It prevents someone copying your work exactly or taking a "substantial part" of the work. What is "substantial" depends on the quality of what was taken, not the quantity. For example, a single line of a poem or a few lines of code might be "substantial". Broadly speaking, if it is possible to prove that something has been copied it is likely that the court will consider that something to have value and therefore be worth protecting.
+
+**Points to note**
+
+1. It is not possible to avoid infringing someone's copyright by simply making a few changes. The key is whether the "copied" item includes a "substantial part" of the original item. 
+2. If someone who is not an employee creates something (such as a new product's design, your website, marketing photographs, software etc) for your business without a formal written assignment of the copyright in that work to you, that person will retain ownership of the right – even if you have paid for it. This doesn't necessarily mean that you have no rights over the copyright work but it makes the situation much more complicated (and expensive). Always get an assignment up front. This is normally included in a consultancy or services agreement.
+ 
+*Unregistered designs*
+
+Any drawings or prototypes are also likely to be protected as unregistered designs. There are two types of unregistered designs in the UK. 
+
+1. **UK unregistered design right** essentially protects the shape of a product. It can protect the final product itself, individual components and even internal features. However, it cannot protect any decoration on the surface of the product. The threshold for protection is fairly low: it cannot be copied from somewhere else or commonplace in the design field. However, this right can only be used to stop someone else who you can prove copied the design. This does not necessarily require a "smoking gun" but the design you want to protect must at least have been available to the person you say copied it. The right effectively lasts for ten years from the date the design is first sold. It is only possible to get UK unregistered design right if one or more of the creators comes from the UK, another EU country or one of a limited number of countries who operate a similar regime. The creator of the design is the first owner unless they are an employee. 
+2. **EU unregistered designs** protect the shape, appearance, decoration and texture of the whole or part of a product. It cannot protect internal features or anything which is technically necessary in order for the product to work. The design must be "new" and give a different "overall impression" to earlier designs. 
+
+*Database right*
+
+The European Union also has a standalone database right which again arises automatically upon creation. The term "database" is defined very broadly as "a collection of independent works, data or other materials arranged in a systematic or methodical way and individually accessible by electronic or other means". This could cover anything from a spreadsheet recording steps taken in product development to customer data. 
+
+Issues with database right tend to arise in two scenarios: (i) replicating valuable data from a database – this is hard to protect as the data itself is often not protectable; and (ii) former employees taking documents when their employment terminates – see below for more on this issue.
+
+*Goodwill*
+
+Goodwill is not technically a right but if someone misuses your goodwill e.g. starts selling a product which is very similar to your product or uses a similar name it may be possible to stop them on the basis that they are "passing off" their product or business as coming from you. Winning a passing off action depends on having excellent sales and marketing data. Although it is possible to protect your brand name and products on the basis of passing off it is much easier to succeed in a claim for trade mark or registered design infringement. 
+
+In the rest of Europe, rather than passing off, most countries have a law regarding unfair competition. This operates in a similar way to passing off but in some circumstances it can be easier to succeed.
+
+**B. Registered rights**
+Most countries in the world and some political unions such as the European Union offer registered rights which protect one or more of:
+
+1. a brand name, logo and, potentially get up (trade marks);
+2. the shape of a product; and
+3. the invention behind the product.
+
+*Trade marks*
+
+Trade marks (or trademarks if you are in the USA) protect the ‘sign' which you use to indicate the commercial origin of your goods or services. In other words, they protect your brand. They can last forever provided that (i) the mark continues to be used and (ii) renewal fees are paid every ten years.
+ 
+Most jurisdictions in the world offer registered trade mark protection. Sometimes, sub-jurisdictions offer protection (e.g. in the USA it is possible to register marks at a state level – although this is not normal) and likewise, some larger economic and political unions offer protection across their region e.g. the European Union or the Benelux region. 
+
+The goods and services which can be protected by registered trade marks are split into 45 different classes. They range from class 1 (chemicals etc) to class 45 (legal services etc). The classes are primarily helpful for classification purposes. 
+
+There are various limitations on the type of trade marks which can be registered. In particular, they cannot be descriptive (e.g. "lamp" for a lamp) or devoid of distinctive character (e.g. a simple line drawing of a light bulb for lighting). 
+
+It is not possible to register a trade mark which is identical or confusingly similar to an earlier trade mark which is registered for identical or confusingly similar goods and services. 
+
+For example, if there is already a registered trade mark for ZEBRA for washing machines it may be still possible to register "Zebra" for internet connected lighting but you would struggle to register ZEEBRAH for internet connected fridges. This is because Zeebrah sounds and looks similar to Zebra and washing machines and internet connected fridges are very similar with significant cross over.
+Most trade marks are for words or logos but it is possible to also register, shapes, colours or even smells. 
+
+*Registered designs*
+
+Registered designs protect the same things as EU unregistered designs (i.e. the shape, appearance, decoration and texture of the whole or part of a product). Similarly, they cannot protect internal features or anything which is technically necessary in order for the product to work. The design must be "new" and give a different "overall impression" to earlier designs. 
+
+The big difference between registered and unregistered designs is that you have to identify up front what it is you want to protect. That could just be the shape of the product (as a line drawing) or it could be the contours, texture and relative colouring of different parts (via a CAD drawing) or possibly the finished product itself. The more specific the design you register, the more likely it is to be valid but the harder it is to stop somebody else from using it because they could change a significant feature e.g. the colour or texture and potentially avoid infringement because the infringing design gives a different "overall impression". This is a delicate art. Whilst the registration process is fairly straightforward, it is well worth getting legal input in order to register the most appropriate design(s).
+
+You have **one year** from the date that you first publicly display a design in which to register it. This publication could be as simple as presenting the design at a pitch meeting (outside obligations of confidence) or sharing a photograph of the design or the finished product on Twitter. It is possible to register a design at the EU or Member State level. Most people register at the EU level but given the uncertainty surrounding Brexit, for a key design, it may be worth registering the design in the UK as well.
+Registered designs last up to 25 years provided they are renewed every five years (and a renewal fee paid).
+
+*Patents*
+
+Patents protect inventions. In order to qualify as an invention, they must be new (i.e. no one has seen them before) and inventive i.e. not obvious to someone who is skilled in the relevant technical area. 
+
+The moment you share your idea with someone, it is no longer new and you risk losing patent protection therefore even if you do not think your invention will be patentable it is still worth getting advice before telling people about it.
+
+Patents last for 20 years and offer complete exclusivity over both your invention and variations of the invention which are set out in the patent's "claims" at the back of the patent. Patents are usually structured so that there is a broad central claim and then more specific claims which cover particular ways in which the invention can be implemented. 
+
+They can be expensive to get drafted and are expensive to renew with fees increasing over time.
+ 
+It is possible to get a patent for different jurisdictions e.g. UK, USA, Germany, China etc. The normal process is to either file in one territory (e.g. the UK or USA) or via the European Patent Office. You then have a year to file a PCT application which gives you up to 30 months from the date you first filed to decide which other territories you would like to secure patent protection. Securing protection in lots of territories is expensive due to translation costs, local legal fees and the costs of further examination. 
+ 
