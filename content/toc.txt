@@ -1,0 +1,43 @@
+TK: LINKS to MEDIUM (CHECK: PDF EXPORT?)
+
+**Alexandra Deschamps-Sonsino: The Whole Internet of Things**    
+In IoT, the issues and challenges aren’t the same for everyone. To strengthen the whole industry we need to build bridges between communities of practitioners.
+
+**Prof. Andrea Krajewski: User Centred IoT-Design**  
+Designing IoT for user needs and user empowerment is the responsibility of designers.
+  
+**Christian Villum: Designing the Digital Futures We Want**  
+We can designer better futures by putting people first.
+
+**Dietrich Ayala: Trust, Lies and Fitness Wearables**  
+When designing wearables, especially fitness wearables, focus on your users’ goals—and trust them.
+
+**Dries de Roeck: On IoT Design Processes**  
+They key to developing an IoT design process—and a successful IoT product—is to focus on user research.
+
+**Dr. Gaia Scagnetti: Dystopian scenarios and the Internet of Things**  
+IoT mediates our relationship with the world. What if the difference between a traditional object and a smart one is that one talks *to* you while the other talks *about* you?
+
+**Holly Robbins: The Path for Transparency for IoT Technologies**  
+As connected technologies have an ever-larger impact on society they need to be transparent and legible.
+
+**Iskander Smit: Touch base dialogues with things: Responsible IoT & tangible interfaces**  
+As we develop a closer relationship with wearable technologies, the UX of touch interfaces becomes a focal point of responsible IoT design.
+
+**Jorge Appiah: IoT in Africa: Are we waiting to consume for sustainable development?**  
+How can IoT and its production be shaped to truly and sustainably benefit Africa?
+
+**Max Krüger: TK TITLE**  
+TK ABSTRACT
+
+**Michelle Thorne: Internet Health and IoT**  
+The internet is a public resource and IoT emerges as the next front in the battle for a healthy internet.
+
+**Peter Bihr: We need more a more transparent Internet of Things**  
+In order to deserve consumers’ trust, IoT needs to become more transparent and legible. Consumer trust marks offer a promising path forward.
+
+**Rosie Burbidge: Design and branding: what rights do you own and what pitfalls should you watch out for?**  
+IP protection in the Internet of Things is unusual in that it engages all intellectual property rights in more or less equal measure.
+
+**Usman Haque: How Might We Grow Diverse Internets of Things? Learning from Project Xanadu & the WWW**  
+How could we design IoT to be different—to be truly radically and legitimately collaborative? Ted Nelson’s vision of Project Xanadu offers some inspiration. 

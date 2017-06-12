@@ -9,7 +9,7 @@ June 2017
 The text in this document is meant for sharing. The text is therefore licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike (by-nc-sa) license](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
 
-This means you can
+This means you can:
 
 -  Share — copy and redistribute the material in any medium or format
 -  Adapt — remix, transform, and build upon the material 
@@ -30,19 +30,62 @@ All rights lie with the individual authors. Please reference the author when ref
 
 +++
 
-/preface/preface.txt
+preface.txt
+
++++
+
 /Alexandra Deschamps-Sonsino/alexandradeschampssonsino.txt
+
++++
+
 /Andrea Krajewski/andreakrajewski.txt
+
++++
+
 /Chris Villum/chrisvillum.txt
+
++++
+
 /Dietrich Ayala/dietrichayala.txt
+
++++
+
 /Dries de Roeck/driesderoeck.txt
+
++++
+
 /Gaia Scagnetti/gaiascagnetti.txt
+
++++
+
+/Holly Robbins/hollyrobbins.txt
+
++++
+
 /Iskander Smit/iskandersmit.txt
+
++++
+
 /Jorge Appiah/jorgeappiah.txt
+
++++
+
 /Max Krueger/maxkrueger.txt
+
++++
+
 /Michelle Thorne/michellethorne.txt
+
++++
+
 /Peter Bihr/peterbihr.txt
-/Rosie Burbidge/rosieburdidge.txt
+
++++
+
+/Rosie Burbidge/rosieburbidge.txt
+
++++
+
 /Usman Haque/usmanhaque.txt
 
 

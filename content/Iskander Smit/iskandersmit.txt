@@ -1,7 +1,3 @@
-TO DO:
-- formatting: images
-- formatting: footnotes
-
 # Touch base dialogues with things: Responsible IoT & tangible interfaces
 By Iskander Smit
 

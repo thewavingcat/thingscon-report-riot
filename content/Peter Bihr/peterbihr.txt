@@ -1,0 +1,76 @@
+# We need more a more transparent Internet of Things
+By Peter Bihr
+
+Personal agency is the basis of a functioning democratic society. In the same vein, consumers need to be able to make informed decisions about the connected products they invite into their lives.
+
+The Internet of Things (IoT) with its dizzying array of connected products and services is hard to navigate:  Consumers have little insight into what any one connected product does, or what it even might be capable of—nor if the company employs good, responsible data practices.
+
+This is not an oversight on the consumers' side. As a buyer of connected products you simply cannot really know. This has to do with the way connected products inherently work, and with an overall lack of transparency. The first is a given; the latter can be changed for the better.
+
+**Connected products change over time**, at least potentially: When software is updated, the product changes. Features and functionality might be added, changed, or removed. Security flaws are fixed—and maybe others introduced. Maybe additional sensors are activated. The key is that for IoT products we must assume that they aren’t fixed but change over time, however slightly. This is an inherent characteristic and cannot be changed.
+
+**The Internet of Things needs to become more transparent**. For consumers it's nearly impossible to know the exact capabilities of connected products. What’s more, even professional reviewers struggle with testing procedures for connected products because of software updates (see above) and because frequently, the computation happens remotely in the cloud. Essentially, this turns many IoT products into a black box.
+
+**Currently, it’s nearly impossible for consumers to make an informed decision on which IoT products are trustworthy.**
+
+Even if a user was technologically capable enough to fully understand the release notes for any software update that was pushed onto their devices, there is usually no opt-out: If a company decides to push a major update to your smart home hub and you didn't agree with that update, your only option would be to throw out the whole product. From a consumer point of view, this is unacceptable.
+
+I believe that a much higher level of transparency is both essential and possible. There are two main approaches that we as a community of practitioners—as creators of, or contributors to, IoT products—can adopt:
+
+1. Designing IoT products and services that are both trustworthy, and that help users understand how they work.
+2. IoT trustmarks can help consumers make more informed decision on which IoT products are trustworthy and why.
+
+**Designing trustworthy, transparent, understandable IoT products**
+
+When we design a thing for the Internet of Things, our decisions influence if the final product is only designed *to be trusted*, or if it is truly *trustworthy*. There are enough risk factors inherent in connected products—think malicious hacking or government surveillance—that the producers of an IoT service should take great efforts not to contribute to these risks.
+
+And to be clear: I’m arguing that this does not just include the role of the product designer but everybody involved in getting this thing from the idea stage onto a shop shelf and into a user’s life—from management to industrial designer to software developer and marketing team.
+
+Part of designing trustworthy IoT products is good data practices: Privacy by design and strong data protection come to mind. Not capturing and storing any non-essential data is another building block. Security by design—making security an essential part of the process from the ground up rather than an afterthought—is essential.
+
+But beyond getting these basics right, many products would benefit greatly from being more accessible, transparent, and understandable. Design can help users make better decisions by helping them understand the *thing* (the product) and the *thing’s brains* (the service powering it).
+
+*Visible seams* are a great way to increase legibility, which is why [Matt Jones has always advocated for visible, beautiful seams](http://berglondon.com/blog/2012/01/06/gardens-and-zoos/) [highlights mine]: 
+
+> “Beautiful seams attract us to the *legible surfaces of a thing*, and allow our imagination in – so that we start to build a model in our minds (and appreciate the craft at work, the values of the thing, the values of those that made it, *and how we might adapt it to our values* (...))”
+
+In other words, the product itself can empower users to make better decisions and to adapt their environment to their needs.
+
+**IoT trust marks can help consumers make informed decisions**
+
+But before someone invites a thing into their life, chances are they see it on a shelf, be it physical or digital. In that situation, faced with a dizzying choice of superficially equivalent products, how can they make the best decisions? 
+
+At the core, we need to answer these two questions:
+
+- "Does this device do what I think it does?" 
+- "What else does it do that I haven't thought of?"
+
+And that is exactly where IoT trust marks come in.
+
+Trust marks can be effective, and enjoy high levels of trust by consumers. The Fairtrade mark, for example, is trusted by 9 out of 10 consumers[^1]. 91 per cent of UK consumers believe a product is of better quality if it bears the UK Kitemark than similar products without the Kitemark[^2].
+
+So we know that trust marks can work. But ease-of-use is essential for successfully establishing a system of trust marks—even if it means that we might need to make trade-offs regarding the level of detail to communicate through them.
+
+
+
+But many questions remain that we plan to explore—and hope to answer—in the coming months.
+
+- **How to best communicate these trust marks?** Visual markers embossed on devices and/or printed on boxes are an obvious path forward, but as outlined before not without restrictions in the context of updatable connected products. QR codes might offer a more flexible solution, and given their ubiquity in large parts of Asia seem like a promising approach.
+- **Trust system or third-party certification?** A trust-based system of self-labeling trades lower inherent trustworthiness but higher adoption rates. A third-party certification on the other hand trades a much higher barrier as well as bureaucratic overhead for higher trustworthiness. In other words, do we aim for a more pragmatic or a more puristic approach?
+- **What to label for?** In connected products with their inherent characteristics (like changing over time through software updates) what can labels and trust marks communicate reliably? Should the focus be on features (“Processes data locally on the device”), on hardware capabilities (“contains a camera that can be physically blocked”), on data practices (“Privacy by Design”), or on organizational structures (“Data captured through this devices is processed by 4 different parties online”)?
+
+These aren’t trivial questions and there will be no simple answers. But seeking these answers is a necessary step for this maturing ecosystem. I’m convinced it will turn out to be a valuable journey that helps both consumers and the industry.
+
+IoT trustmarks can provide creators of IoT products a way to differentiate themselves on the market by showing that they—and their products—are not just trusted but indeed *trustworthy*.
+
+More importantly, I believe that IoT trust marks can be a powerful mechanism to empower consumers to make informed decisions.
+
+---
+
+Peter Bihr is the founder and Managing Director of [The Waving Cat](https://thewavingcat.com), a boutique strategy, research & foresight company where he explores impact and opportunities of emerging technologies—especially Internet of Things (#iot). As an advisor, he helps organizations excel in an environment shaped by digitization, connectedness and rapid change.  
+Peter is on the board of the not-for-profit [ThingsCon](http://thingscon.com) e.V. which fosters the creation of a human-centric & responsible Internet of Things. He has co-founded and chaired many acclaimed emerging technology conferences including ThingsCon, UIKonf and Cognitive Cities Conference, and served as co-chair of Interaction16.    
+His projects, thoughts and other antics have been featured in Forbes, New York Times, The Guardian, ZDF, ZEIT and many others. He was named a Top 100 Influencer in IoT in 2016 (Postscapes). He blogs at [thewavingcat.com](https://thewavingcat.com/blog).
+
+
+[^1]: Fairtrade International 2012, "For Producers, With Producers", Annual Report 2011-12. [[Accessed 12 June 2017](https://www.fairtrade.net/fileadmin/user_upload/content/2009/resources/2011-12_AnnualReport_web_version_small_FairtradeInternational.pdf)]
+[^2]: Oxford University Centre for Corporate Reputation 2012, Comment in Reputation Issue 3. [[Accessed 12 June 2017](http://www.sbs.ox.ac.uk/sites/default/files/CCR/Docs/2012-03-Reputation.pdf)]
