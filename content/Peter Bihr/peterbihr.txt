@@ -26,7 +26,7 @@ When we design a thing for the Internet of Things, our decisions influence if th
 
 And to be clear: I’m arguing that this does not just include the role of the product designer but everybody involved in getting this thing from the idea stage onto a shop shelf and into a user’s life—from management to industrial designer to software developer and marketing team.
 
-Part of designing trustworthy IoT products is good data practices: Privacy by design and strong data protection come to mind. Not capturing and storing any non-essential data is another building block. Security by design—making security an essential part of the process from the ground up rather than an afterthought—is essential.
+Part of designing trustworthy IoT products is good data practices: Privacy by design and strong data protection come to mind. Not capturing and storing any non-essential data is another building block. Security by design—making security an essential part of the process from the ground up rather than an afterthought—is essential. Smart defaults, so that the product rather than the user does the heavy lifting, are a another—especially in all things security-related.
 
 But beyond getting these basics right, many products would benefit greatly from being more accessible, transparent, and understandable. Design can help users make better decisions by helping them understand the *thing* (the product) and the *thing’s brains* (the service powering it).
 
