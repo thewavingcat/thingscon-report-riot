@@ -1,6 +1,6 @@
 # Preface
 
-**The ThingsCon report [The State of Responsible IoT](http://bit.ly/riot-report) is a collection of essays by experts from the inter-disciplinary [ThingsCon](http://thingscon.com) community of IoT practitioners. It explores the challenges, opportunities and questions surrounding the creation of a responsible & human-centric Internet of Things (IoT).**
+**The ThingsCon report [The State of Responsible IoT](http://bit.ly/riot-report) is a collection of essays by experts from the inter-disciplinary [ThingsCon](http://thingscon.com) community of IoT practitioners. It explores the challenges, opportunities and questions surrounding the creation of a responsible & human-centric Internet of Things (IoT). For your convenience you can read it [on Medium](https://medium.com/the-state-of-responsible-internet-of-things-iot) or [download a PDF](https://www.dropbox.com/s/ktyglbx3h2do6wk/The%20State%20of%20Resonsible%20IoT%20-%20A%20ThingsCon%20Report.pdf?dl=0).**
 
 **It's a critical time in the development of the Internet of Things (IoT). We believe the ThingsCon community has a valuable contribution to make to ensure a future where IoT works for everyone: A responsible & human-centric IoT.**
 
@@ -12,7 +12,7 @@ We find it important to cover a wide range of issues and perspectives—discipli
 
 We see this is a first step on a longer journey—a kickoff if you will. We will keep adding to this collection: As the questions surrounding responsible IoT change, so will this project. We will continue to do this as much in the open as possible (see the section "Keep it open!" below).
 
-### Content overview
+### Content overview 
 
 /toc.txt
 
@@ -36,7 +36,7 @@ May there be many more in the coming months!
 
 This report is licensed under a Creative Commons ([CC by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/4.0/)) license. Please reference the author by name.
 
-[ThingsCon](https://thingscon.com) is a global community of IoT practitioners dedicated to fostering the creation of a human-centric & responsible Internet of Things. Learn more on [ThingsCon.com](https://thingscon.com), join an [event near you.](https://thingscon.com/events), and [follow us on Twitter](https://twitter.com/thingscon).
+[ThingsCon](https://thingscon.com) is a global community of IoT practitioners dedicated to fostering the creation of a human-centric & responsible Internet of Things. Learn more on [ThingsCon.com](https://thingscon.com), join an [event near you](https://thingscon.com/events), and [follow us on Twitter](https://twitter.com/thingscon).
 
 To link to this page, you can also use the shortlink [bit.ly/riot-report](http://bit.ly/riot-report).
 

@@ -105,4 +105,3 @@ The world of wearables is just beginning. The hardware is still simplistic–it 
 decade at Mozilla, the non-profit makers of the Firefox web browser, where's he's shipped open source software to hundreds of millions of
 people. A developer, writer and speaker, he's currently traveling Asia helping schools, businesses and governments use the web to make
 emerging technologies like IoT, AR and VR accessible to everyone.
-

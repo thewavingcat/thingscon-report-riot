@@ -8,7 +8,7 @@ We also see near-skin devices that merge the physical and digital: Digital and p
 One of my favourite explorations into this new marriage of body and bits is the project [Surveillance Spaulder of James Bridle](http://booktwo.org/notebook/surveillance-spaulder/) where he puts some muscle contracting pads on his shoulder, connect these to a infrared sensor that is triggered by surveillance cameras in London. Every time he passes a camera walking down the street he literally feels he is watched as his shoulder contracts. 
 This is direct link between impulse and action. (In that sense it is not Internet of Things as there is no internet involved, but data-driven nonetheless.) A jacket like the one from ByBorre can let you feel invisible threats, like air pollution. An interesting design question here is how pollution feels: Does a polluted area feel more heavy, does it feel restless by vibrating, or warm? As your phone gets warm because it is inefficiently processing apps, that warmth is a sign of fast drainage of the battery. These kind of direct relations are interesting and can lead to a new language with our things.
 
-/images/iskander1.png "Surveillance Spaulder by James Bridle"
+/images/iskander1.jpg "Surveillance Spaulder by James Bridle"
 
 In 2014 Fabian Hemmert published his [PhD-research about new forms of interaction with things](http://www.fabianhemmert.com/projects/phd-thesis), and he looked to phones in one of his research through design cycles. Could a phone that has more data grow, or become heavier? Do we need these kind of clues to be more attached to the invisible aspects of data?
 Even before that, BERG and Timo Arnall did research into making wireless connections visible with the [Immaterials project](https://vimeo.com/20412632) through several experiments with light and smart photo tricks as time-captures. Much later, the [Architecture of Radio](http://www.architectureofradio.com) app tried to do a similar thing. The quest is to make the invisible visible. 
@@ -16,7 +16,7 @@ Even before that, BERG and Timo Arnall did research into making wireless connect
 Touch plays an important role in social relations, as we learn from Gijs Huisman. He did his [PhD on ‘Social Touch Technology’](http://doc.utwente.nl/103617), or touch on a distance. I was involved in a valorisation project from this research and did some explorations the last years in the role touch and especially feeling touch can play as interface to others and to our world. Haptics is the science applying tactile sensation to interact with computer applications, and is the way this mediated touch is made accessible for interfaces. One of the research artifacts was a sleeve that is put on the under arm. It had 12 sensors and 12 vibrating engines. By touching on person’s sleeve, the other wearer can feel that touch remotely, be it a stroke or grabbing. The research found that the reception and understanding of stroking patterns resembles the human touch and people do feel a person’s touch at a distance. 
 The use case for the sleeve was in the research context for death-blind people. Especially people born with this handicap have no other means of communication than touch; it is the only way to have a dialogue. There is a language of touch, especially done on the lower arm, a relatively sensitive part of the body. 
 
-/images/iskander2.png
+/images/iskander2.jpg
 
 Just like other languages, touch needs to be learned and is depending on mutual understanding of ‘words’. Just like in voice based communication, you can distinguish tone and meaning. If we don’t know each other’s language we can communicate by basic sounds and interpretations. The feel of a tone can be linked to an emotion: The same goes for haptic feedback. We can feel danger, love, and other extreme feelings—more subtle one are harder to understand. There is a cultural and gender bias too: Men understand certain signals less clear from women than from men and vice versa. 
 My conclusion after a couple of years of exploring haptics: Touch is very powerful to stress emotions, and to notify with a meaning. But it’s rare to have an instant understanding. You can link a couple of different signals to concepts, but you need to learn these by doing. The Apple navigation app is embedded in the Apple Watch system and is pre-programmed with different haptic patterns to signal if you need to go to right or left. I need to learn this over and over as I do not use it every day. 
@@ -26,11 +26,11 @@ Things will start to understand us and react to our behaviour, but we will also 
 
 A question around intelligent things that have dialogues with us is to which degree the intelligence will live in the cloud, or in the things itself. The current architecture is often cloud based: Just think of Amazon Echo or Google Home, and also open source systems as [ReSpeaker](http://respeaker.io), all of whom use the cloud as the backbone for their conversations. This has limitations, though. It’s not that we need to be afraid for offline things, but rather the amount for data transfer that is needed as the conversations become more natural. We will see that things themselves will need to house part of the intelligence and use only impulses to trigger conversations and embed contextual information. 
 
-/images/iskander3.png
+/images/iskander3.jpg
 
 The separation of conversational intelligence and contextual savviness is an important architecture for the coming generation of things. Apple’s Airpods are an interesting example in this: You could have thought that they wouldn’t need a lot of computer power just to connect and send Siri instructions to the phone, but the devices do more than gesture & movement based interactions. Airpods are prepared for a much bigger role in the new [digital services ecosystem](https://medium.com/labsinfonl-goes-sxsw/the-year-that-will-be-the-end-of-the-smartphone-as-we-know-it-884e696fe3d1).
 
-/images/iskander4.png
+/images/iskander4.jpg
 
 In a model of the trigger-based interactions that emerge from wearable devices like Google Glass, Android Wear, and others, we see how information is served in little context-driven chunks. What and where and in what form is influenced by a mix of profile information of the user, and  knowledge the system has on more static characteristics related to the service being used. Second, the system gets sensor-based impulses it can work with. Micro interactions, actions in the moment, together with these known characteristics allow it to calculate what to present at any given time. It’s a continuous dialogue. 
 
@@ -47,12 +47,12 @@ In a research program we are setting up at TU Delft now, we are looking into the
 
 We are not at that moment. The relation we have with intelligent things will bring new design challenges. A student from Eindhoven—Felix Ros—[made an interesting device](http://felixros.com/stewart.html) for autonomously driving cars. You can put your hand on the device that gives feedback on the ‘thoughts’ of the car, what decision the car is making. 
 
-/images/iskander5.png
+/images/iskander5.jpg
 
 It is also a mean to intervene with these decisions. The human driver is still in charge, for now. But will this be the case if we decide to give more agency to the car and not the driver?
 At LABS we designed a next iteration of an intelligent barbecue that addresses these kind of questions helping the incidental grill cook with indicators on the process based on inputs, like thickness of the food and temperature of the barbecue. A system that is automated but leaves space for the cook to make their own decisions. The barbecue shares its insights (for example on timing), but when and how to act is a decision the human makes. This makes the barbecue more personal and adaptable, and the next generation of barbecues can take into account these learnings.  
 
-/images/iskander6.png
+/images/iskander6.jpg
 
 In designing the next generation of intelligent things we are also designing a system of interactions between the physical device and a rule-based computation model. We use a mix of physical and haptic touch points, and decide where the intelligence of the dialogue is put: Does it go into the thing or into the system? As designers, we need to take a stand where the agency of the machine might interfere with that of the human.
 

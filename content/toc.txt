@@ -1,5 +1,3 @@
-TK: LINKS to MEDIUM (CHECK: PDF EXPORT?)
-
 **Alexandra Deschamps-Sonsino: The Whole Internet of Things**    
 In IoT, the issues and challenges aren’t the same for everyone. To strengthen the whole industry we need to build bridges between communities of practitioners.
 
