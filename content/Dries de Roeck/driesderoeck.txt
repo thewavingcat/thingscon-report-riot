@@ -78,7 +78,7 @@ After studying several IoT startups' design processes, focusing on a working pro
 - "Value and technology are no BFFs". IoT is often framed from a very technology-driven point of view. The focus is on features and possibilities, but rarely on how people might actually use internet-connected products and services in their day to day lives, and how those might add value. 
 After analyzing 13 IoT design processes, it was apparent that only two of them started from a value-driven point of view. Maybe not surprisingly, these were two cases not driven by venture capital or part of an IoT incubator/accelerator program. In order to design IoT products in a human centered and responsible way, companies should be motivated to start exploring first and building later.
 
-##Onwards, to lightweight futures
+**Onwards, to lightweight futures**
 
 Within a startup context there is little tradition of having a deep understanding of users in an early stage in the project. Dominant 'lean startup'[^5] methodology puts a lot of emphasis on creating a 'minimal viable product' (MVP). This MVP becomes a tool or prototype that is used to understand the product's potential end users. Looking at our design process data, this way of working often results in...
 

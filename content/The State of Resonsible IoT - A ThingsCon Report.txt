@@ -1,7 +1,10 @@
-Version: v0.9 / 11 June 2017
+TK: COVER
 
-ThingsCon Report: The State of Responsible Internet of Things (IoT)
-by ThingsCon   
++++
+
+Version: v0.91 / 12 June 2017
+
+**ThingsCon Report: The State of Responsible Internet of Things (IoT)**   
 
 Published by ThingsCon e.V., Berlin  
 June 2017
@@ -30,7 +33,7 @@ All rights lie with the individual authors. Please reference the author when ref
 
 +++
 
-preface.txt
+/preface.txt
 
 +++
 
