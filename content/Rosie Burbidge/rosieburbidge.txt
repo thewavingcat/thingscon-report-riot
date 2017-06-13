@@ -1,8 +1,5 @@
-TK: BIO
-
 # Design and branding: what rights do you own and what pitfalls should you watch out for?
 By Rosie Burbidge
-
 
 Intellectual property rights are essential for all businesses but the Internet of Things is relatively unusual in engaging all intellectual property rights in more or less equal measure. 
 
@@ -84,4 +81,3 @@ Patents last for 20 years and offer complete exclusivity over both your inventio
 They can be expensive to get drafted and are expensive to renew with fees increasing over time.
  
 It is possible to get a patent for different jurisdictions e.g. UK, USA, Germany, China etc. The normal process is to either file in one territory (e.g. the UK or USA) or via the European Patent Office. You then have a year to file a PCT application which gives you up to 30 months from the date you first filed to decide which other territories you would like to secure patent protection. Securing protection in lots of territories is expensive due to translation costs, local legal fees and the costs of further examination. 
- 

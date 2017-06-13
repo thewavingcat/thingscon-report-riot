@@ -1,5 +1,3 @@
-TK: bio
-
 # Dystopian scenarios and the Internet of Things
 Dr. Gaia Scagnetti
  
