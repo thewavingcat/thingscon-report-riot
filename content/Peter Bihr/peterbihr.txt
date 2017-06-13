@@ -20,6 +20,8 @@ I believe that a much higher level of transparency is both essential and possibl
 1. Designing IoT products and services that are both trustworthy, and that help users understand how they work.
 2. IoT trustmarks can help consumers make more informed decision on which IoT products are trustworthy and why.
 
+/images/markusspiske.jpg “Image: [Maskus Spiske](https://unsplash.com/photos/jjtdL443L4w)” 
+
 **Designing trustworthy, transparent, understandable IoT products**
 
 When we design a thing for the Internet of Things, our decisions influence if the final product is only designed *to be trusted*, or if it is truly *trustworthy*. There are enough risk factors inherent in connected products—think malicious hacking or government surveillance—that the producers of an IoT service should take great efforts not to contribute to these risks.
