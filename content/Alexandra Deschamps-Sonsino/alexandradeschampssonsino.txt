@@ -3,7 +3,7 @@ By Alexandra Deschamps-Sonsino
 
 I've been speaking at unusual conferences lately that have exposed me to very different points of view on the internet of things. In my world, shaped by my education and career, I get very interested in the 'thing' as the social object (to borrow from [Jyri Engestrom's use of the term back in 2005](https://en.wikipedia.org/wiki/Social_objects)). I'm excited about the craft of the 'thing', the manufacturing challenges in making a 'thing' connected, the good and less good application space the 'thing' presents to us. My point of view is very 'thing'-oriented. 
 
-/images/unsplash1.jpg “A photo is a social object. Image: [Unsplash](http://unsplash.com).”
+/images/unsplash1.jpg "A photo is a social object. Image: [Unsplash](http://unsplash.com)."
 
 But recently, I've been hanging out with people who think of the 'thing' as being just an element of a network that has to be designed and managed. No matter what the 'thing', the behaviour will probably be the same: Data will be acquired (at a predictable-ish rate), computed in the cloud or on the chip itself, a learning will be made of this data which can benefit someone somewhere else, and an action will be instigated through the 'thing' or digitally. If my challenge is to think up good ways to connect things, for these people the challenge is to 'know' the thing. To know it is to know how to manage it and its behaviour. 
 

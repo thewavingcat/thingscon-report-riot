@@ -2,7 +2,7 @@
 
 +++
 
-Version: v0.96 / 14 June 2017
+Version: v0.97 / 14 June 2017
 
 **ThingsCon Report: The State of Responsible Internet of Things (IoT)**   
 
@@ -82,6 +82,10 @@ All rights lie with the individual authors. Please reference the author when ref
 +++
 
 /Peter Bihr/peterbihr.txt
+
++++
+
+/Rob van Kranenburg/robvankranenburg.txt
 
 +++
 

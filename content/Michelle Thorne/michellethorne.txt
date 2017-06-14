@@ -6,7 +6,7 @@ By Michelle Thorne
  
 Reading the news these days, it’s easy to believe that we’re living in a bad science fiction novel: government agencies openly admit they are using IoT to conduct surveillance at unprecedented levels[^2]; a botnet took over webcams and connected devices around the globe and temporarily brought down major websites[^3]; irresponsible businesses are leaking their customers’ private data and treating digital security as an externality[^4]. All of this is happening against the backdrop of rising far-right nationalism, ongoing wars, and climate change.
 
-/images/electrical-wall.jpg “Visiting the workshops of local manufacturers and craftspeople in Ahmedabad, India to create products together. [Image: Michelle Thorne](http://michellethorne.cc/2016/07/mozillas-open-iot-studio-the-first-half-year/)”
+/images/electrical-wall.jpg "Visiting the workshops of local manufacturers and craftspeople in Ahmedabad, India to create products together. Image: [Michelle Thorne](http://michellethorne.cc/2016/07/mozillas-open-iot-studio-the-first-half-year/)" 
  
 Confronted with these realities, one might turn to pessimism. *Nothing that I do will make a difference. We are all doomed.* Or one might be optimistic and think *I’ll sit this out. It will all work out in the end.* Both pessimism and optimism are fatalistic. Neither option will motivate anyone into action.
  

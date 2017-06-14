@@ -1,0 +1,50 @@
+# How to run a country (I know where that door is)
+by Rob van Kranenburg
+
+*I was eight years old. I am in the kitchen. The radio is on. The news is coming up. There is this solemn voice. It says: “The government has left for the holidays.” My mind goes blank. I hear vaguely something about one minister staying put in case something happens. In case something happens? I lose my faith in the world that day. I was eight years old.*
+
+*I was always thinking about the things the government had said or done on the news. It was comforting the way the world seemed to be organized in happenings and reactions and solutions to these happenings.*
+
+*Throughout the summer the news was quiet. Nothing much ‘happened’. And I wondered, I really wondered: Can reality take a holiday? It was clear that it did. *
+
+*Only when the government came back from wherever they had roamed, just around the time that school started, the happenings came back. The buzz was back on and newsreaders read their lines as if they were out of breath, as if there were urgent matters and things to get done, right now.*
+*But I was convinced it was all a hack. Reality itself was scripted. The news itself was just another category of fiction aimed at creating a comforting scope of normality for us citizens—well, kids then, but still.*
+
+I grew up. Insincerities bugged me. Non-inevitability, I could not deal with that. All around me I saw simple solutions, but when I voiced them no one was able to put them to good use. Things were not that simple, they would say. So I took to reading. And as I read I started living in my head. There, things made sense.
+
+I have no regrets. I could have not survived any other way. I made one logical mistake though: I came to loathe the very notion of ‘usefulness’. If anything was too ‘useful’, I would cross the street. I stayed clear of things that seem to full of purpose. Instrumentality: I took it to be the main tool with which reality was scripted. It always served that ‘real’, it always served the purpose. Sure! It was defined a priori to blend fully into the ‘service’. 
+
+So I read poetry, I read literature, literary theory and dived into hypertext, new media, interactivity. I figured I could stay away from that awfully useful real  forever. And I did. 
+
+That is, until I went to a conference in Sweden, Jonschöping. This was around 1999, maybe 2000. It was cold as I got there. I don’t remember the hotel but I know I brought my running shoes. The morning before the conference I went for a run across Jonschöping’s lake. It was misty. Clouds of fluffy white drifted across the waters. A twig cracked. I looked up as in the middle of the lake the mist broke and a hand I barely saw pushed King Arthurs’ sword straight up, drops of water catching sparks of early morning sun. My head swirled as I swung and danced, skipping through the still, dark, narrow path. I was the hunter of invisible game. I was.
+
+I guess we all have these moments. Moments so defining, so clear, oh you know exactly where you were. Meaning does not fill a void. No, meaning overflows, embraces that moment and every possible trajectory flowing from it. You exist and you know it.
+
+I thought that was my moment. Little did I know.
+
+About two hours later I found myself in a lecture hall among Europe’s finest researchers, computer scientists, engineers, ethnographers, usability experts and designers. The conference was named ‘Building Tomorrow Today’. That title had gotten to me: I had told my boss Andrée van Es in Amsterdam and she had told me to go. I was running a super-funded media education program for the Balie at the time. Just a week before I had read a WIRED article by Charlie Bertsch telling me that bottles would soon be coming off production lines beaming their whereabouts. Talking bottles and people building tomorrow today, that was worth a trip up north.
+
+The room was packed. I sat somewhat high up in assembly hall. A guy walked on stage. I vaguely remember hearing he had two PhDs. I hear words that are new to me, and take notes: Ambient intelligence, ubicomp, pervasive computing, calm computing… Two years later I would summarize all of this into this one-line postcard at the Browserdays Amsterdam Conference:
+
+/images/a1.png 
+
+It took me two years to get it. That’s how seriously strange it was, and maybe still is. Today I am tuned to strange things. I live in the in between. But when the ‘other’ stares you in the face as your friend, your hair on your arms grows eerie and you need some time indeed to figure out what the hell is going on.
+
+So, what was going on was the guy on stage. He said: Suppose we are walking in the woods. Interesting! I thought: *I just did that.* I was awake now. He continued: *So we are walking in the woods. Now suppose you want to know more about a particular tree, let’s say that tree, and you can’t because there is no one to tell you and the tree cannot speak right? OK. Well, in ten years’ time, you will all have this Bluetooth enabled ring and if you walk in the woods and see a tree you want to know more about, you simply point your ring at the tree and a screen will pop up and tell you more about that tree!*
+
+Words fail as I try to explain to you what happened to me as he spoke those words.
+
+I was too numb to scream: ‘No’.
+
+I looked around me. No one seemed to be affected by these remarks. This 
+was what the whole thing was about. To tag every object, item, good, thing, animal, human on the planet and monitor, track and trace data sets to play them back to either them or another party as a ‘service’, as ‘information’ and ‘meaning’—to tell you about the tree.
+
+Let me tell you about that tree. Once upon a time…
+
+My mind imploded the moment I pictured what he had said. Looking back today, we know that screens don’t pop up. The hardware folks never get the new interaction patterns they give birth to quite right. But we all have smartphones now, and objects speak to us through barcodes, QR codes, smart tags, RFID, NFC, and a lot of other ‘glue’ that helps brings data into applications and services.
+
+About two decades later the vision the conference guy outlined is reality. It’s called Internet of Things. It is about optimization, efficiency and use. And I am part of it. 
+
+---
+
+[Rob van Kranenburg](http://twitter.com/robvank) is co-founder of bricolabs and the founder of [IoT Council](http://www.theinternetofthings.eu/). He wrote "The Internet of Things. A critique of ambient technology and the all-seeing network of RFID".

@@ -34,6 +34,9 @@ The internet is a public resource and IoT emerges as the next front in the battl
 **Peter Bihr: We need more a more transparent Internet of Things**  
 In order to deserve consumers’ trust, IoT needs to become more transparent and legible. Consumer trust marks offer a promising path forward.
 
+**Rob van Kranenburg: How to run a country (I know where that door is)**  
+A personal journey of discovery, and a heureka moment about the Internet of Things.
+
 **Rosie Burbidge: Design and branding: what rights do you own and what pitfalls should you watch out for?**  
 IP protection in the Internet of Things is unusual in that it engages all intellectual property rights in more or less equal measure.
 
