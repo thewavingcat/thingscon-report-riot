@@ -2,7 +2,7 @@
 
 +++
 
-Version: v0.97 / 14 June 2017
+Version: v0.98 / 14 June 2017
 
 **ThingsCon Report: The State of Responsible Internet of Things (IoT)**   
 
