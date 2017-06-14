@@ -33,7 +33,7 @@ All rights lie with the individual authors. Please reference the author when ref
 
 +++
 
-/preface.txt
+/prolog.txt
 
 +++
 
