@@ -98,21 +98,21 @@ These lightweight methods allow for a high level of flexibility and are applicab
 
 It is important to point out that tools like these are not the holy grail of *the* IoT design process, but they do indicate that it is possible to include a human-centered design process in the design and development of products that are centered around technology. By doing so, it's possible to build bridges between the long-standing academic discourse on HCI and ubiquitous computing methods, and emergent startup culture.
 
-[^1]: https://youtu.be/bucvjsKfzgc & http://dl.acm.org/citation.cfm?id=1142437
+[^1]: [https://youtu.be/bucvjsKfzgc & http://dl.acm.org/citation.cfm?id=1142437](https://youtu.be/bucvjsKfzgc)
 
-[^2]: https://www.interaction-design.org/literature/topics/wizard-of-oz-prototypes
+[^2]: [https://www.interaction-design.org/literature/topics/wizard-of-oz-prototypes](https://www.interaction-design.org/literature/topics/wizard-of-oz-prototypes)
 
-[^3]: http://hci.stanford.edu/research/dtools/
+[^3]: [http://hci.stanford.edu/research/dtools/](http://hci.stanford.edu/research/dtools/)
 
-[^4]: The DOT framework was created by Koen Van Turnhout, researcher and lecturer at the HAN University of Applied Sciences. More info can be found via http://cmdmethods.nl/
+[^4]: The DOT framework was created by Koen Van Turnhout, researcher and lecturer at the HAN University of Applied Sciences. More info can be found via [http://cmdmethods.nl/](http://cmdmethods.nl/)
 
-[^5]: http://theleanstartup.com/
+[^5]: [http://theleanstartup.com/](http://theleanstartup.com/)
 
-[^6]: https://know-cards.myshopify.com/products/ideation-pack
+[^6]: [https://know-cards.myshopify.com/products/ideation-pack](https://know-cards.myshopify.com/products/ideation-pack)
 
-[^7]: http://iotservicekit.com/
+[^7]: [http://iotservicekit.com/](http://iotservicekit.com/)
 
-[^8]: http://tilestoolkit.io/
+[^8]: [http://tilestoolkit.io/](http://tilestoolkit.io/)
 
 ---
 [Dries de Roeck](http://twitter.com/driesderoeck) is a next generation alchemist, moving back and forth between the design and research field. He leads all things research at the creative agency [Studio Dott](http://www.studiodott.be/) in Antwerp, Belgium. He is interested in the way people use and adapt technology in their day to day context, and how this can be an inspiration towards more humane & meaningful network connected products. As part of his ongoing PhD research he created the 'IoT Ideation cards', a personalisable deck of cards to conceptualise internet connected products.
