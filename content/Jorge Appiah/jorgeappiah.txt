@@ -6,6 +6,8 @@ As the world enters into the 4th Industrial age, the Internet of Things is ident
 Africa’s adaption of technology has been both positive and relatively slow in most cases. As the world moves to the era of the 4th industrial age, Africa cannot afford to fall behind as in a global village, the impact of the disruption of industries and jobs will be largely felt by Africans. They will suffer the most due to the negative consequence  such as loss of traditional and low skills-level jobs increasing it unemployment of the age of industry 4.0.
 These new technologies, with IoT being a key, will redefine jobs and industries of the future. As such the human capital of Africa has to be developed to meet the needs of both the present and future.
 
+/images/a1.jpg
+
 On the positive side, new technologies of the future offer developing countries in Africa an opportunity to leapfrog the business-as-usual way of solving problems towards a low-cost, efficient, sustainable, inclusive and sometime green approach. Also, this new opportunity IoT presents can bring about economic empowerment through sustainable job creation and a new channel to tackle poverty in developing countries.
 
 **What will it be: inclusive and sustainable growth through technology? Or high consumption induced growth with high poverty rate?**
@@ -50,4 +52,6 @@ In our current situation, if our approach to IoT adaptation and consumption is r
 [^Business Insider]: [Here’s Why Facebook’s Why Facebook’ new office in Africa is vital to the company’s future ](http://www.businessinsider.com/facebook-new-sales-office-in-africa-arpu-2015-6)
 
 ---
-[Jorge Appiah](https://twitter.com/JorgeAppiah) is an electronics engineer, technologist, change maker and entrepreneur and the co-founder of [Kumasi Hive](http://kumasihive.com/), a makerspace, incubator and coworking space in Kumasi, Ghana. He previously founded the Creativity Group (an association of hackers and makers which now has over 600 active members across 5 chapters in Ghana, which has spawned several of the startups we are now supporting).
+[Jorge Appiah](https://twitter.com/JorgeAppiah) is a Technopreneur and innovator with a background in Electrical/Electronic Engineering and Renewable energy. He has a key interest in system and designing thinking coupled with appropriate technology. He specializes in accelerating the 4th industrial age technologies like Internet of Things, Drones, Augmented/Virtual reality, Blockchain etc in solving crucial challenges in Africa through Human capacity building.
+Jorge is the Co-founder/CEO of [Kumasi Hive](http://www.kumasihive.com/); is a multi-space innovation place for rapid prototyping of ideas, budding local innovations, impact start-up support and promoting youth entrepreneurship as a way of addressing critical social economic and developmental challenges
+Jorge is also the founder of [Creativity Group](http://www.creativitygroup.org/) (Cg), an interdisciplinary community of student innovators, makers, entrepreneurs and changemakers who are using innovation and technology as a tool, to solve problems in our communities and in Ghana for social interventions and sustainable development.
