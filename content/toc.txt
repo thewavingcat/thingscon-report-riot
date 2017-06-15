@@ -5,7 +5,7 @@ In IoT, the issues and challenges aren’t the same for everyone. To strengthen 
 Designing IoT for user needs and user empowerment is the responsibility of designers.
   
 **Christian Villum: Designing the Digital Futures We Want**  
-We can designer better futures by putting people first.
+We can design better futures by putting people first.
 
 **Dietrich Ayala: Trust, Lies and Fitness Wearables**  
 When designing wearables, especially fitness wearables, focus on your users’ goals—and trust them.
