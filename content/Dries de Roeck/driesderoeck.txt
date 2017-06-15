@@ -13,11 +13,11 @@ Weiser's work sparked a flurry of human computer interaction research which has 
 (At least) three types of actions have been extensively recognized and researched:
 
 - *In-context artefacts*: By placing working products or prototypes in context, we can obtain insights into how people live with networked products in their daily lives. This allows us to understand in which ways technology can be used to support people in their day-to-day efforts, or which values we could focus on. 
-A good example of this is Bill Gaver's history tablecloth[^1], a digitally connected product created as an experiential prototype. Only by living with this product on a day-to-day basis you can fully experience and understand its functionality and value.
+A good example of this is Bill Gaver's history tablecloth [^1], a digitally connected product created as an experiential prototype. Only by living with this product on a day-to-day basis you can fully experience and understand its functionality and value.
 - *Involving stakeholders*: When it comes to designing with 'novel' technologies, it is not easy to present ideas to end users or other stakeholders in early stages of the design process. 
-But the literature thoroughly explores way to better explore concepts and early ideas. A schoolbook example of such a technique is Wizard of Oz[^2] testing, which originated in the 1980s. Wizard of Oz testing comes down to providing an end user with the illusion that a digital system is functional, whereas it is actually being controlled manually.
+But the literature thoroughly explores way to better explore concepts and early ideas. A schoolbook example of such a technique is Wizard of Oz [^2] testing, which originated in the 1980s. Wizard of Oz testing comes down to providing an end user with the illusion that a digital system is functional, whereas it is actually being controlled manually.
 - *Design tools*: When designing digitally connected physical products, a design challenge is to constantly keep track of which design choices in either medium influence each other. 
-For example, adding a physical button to a hardware device might be impossible because the micro controller does not have any spare pins to use: In this case, a digital constraint limits a physical design choice. Research by Bjorn Hartmann (2006) and others has been tackling these challenges. Hartmann created a set of software and hardware building blocks called [d.tools][^3], which made it possible to create working digitally connected physical prototypes more easily.
+For example, adding a physical button to a hardware device might be impossible because the micro controller does not have any spare pins to use: In this case, a digital constraint limits a physical design choice. Research by Bjorn Hartmann (2006) and others has been tackling these challenges. Hartmann created a set of software and hardware building blocks called [d.tools] [^3], which made it possible to create working digitally connected physical prototypes more easily.
 
 **Today's reality**
 
@@ -38,7 +38,7 @@ This leads us to ask whether there is a product design process specific to IoT, 
 We set out to develop a better understanding of how IoT products are being created in practice, which issues companies struggle with, and how these struggles could be overcome.
 
 In a study in collaboration with 13 IoT startups from the ThingsCon network across 3 major European cities—London, Amsterdam and Berlin—we set up sessions with 4 to 5 startups in each city.
-During these sessions, the prime focus was on creating a visualized timeline of the design process linked to each startup's product. Afterwards, all gathered processes were analyzed using the 'Development Oriented Triangulation' framework[^4] (DOT), which focuses on breaking down design processes into 5 different categories:
+During these sessions, the prime focus was on creating a visualized timeline of the design process linked to each startup's product. Afterwards, all gathered processes were analyzed using the 'Development Oriented Triangulation' framework [^4] (DOT), which focuses on breaking down design processes into 5 different categories:
 
 - *Library*: A 'static' research activity, such as looking up existing work or analyzing existing data.
 - *Field*: Going out into the field to observe, trial, or explore something in content.
@@ -67,7 +67,7 @@ Secondly, the 13 design IoT design processes we analyzed showed a wide variety o
 However, none of the startups we interviewed went through these iterations *consciously and deliberately*. 
 This implies that during design and development within IoT startups, there is very little meta thinking about design processes and activities. Most steps are taken ad-hoc.
 
-Lastly, we identified two common design patterns in our data. Both start with a workshop activity, and then move on to either a showroom or lab activity. (The DOT framework[^1] refers to these as (partial) rigor cycles and (partial) validated solutions respectively.)
+Lastly, we identified two common design patterns in our data. Both start with a workshop activity, and then move on to either a showroom or lab activity. (The DOT framework [^4] refers to these as (partial) rigor cycles and (partial) validated solutions respectively.)
 Typically, a workshop activity generates a new proposition. These propositions are then validated or invalidated by a group of experts or end users. 
 It might appear rather common to work in this way, but we found that most of these activities were driven by investor pitches or other funding related deadlines. This highlights the turbulent environment IoT startups operate in, which often do not allow them to follow a pre-planned, more deliberate design process.
 
@@ -90,9 +90,9 @@ Traditional human-centered design methodology often conceptualizes design as a p
 
 A plausible resolution can be found in 'lightweight' stakeholder involvement methods that have been explored by academics and practitioners. A lot of work is happening towards providing organizations with more flexible tools to help out in designing IoT products. Some good starting points are:
 
-- IoT Ideation toolkit[^6] by Studio Dott and Knowcards
-- IoT Service kit[^7] by Futurice
-- Tiles IoT cards[^8] by NTNU
+- IoT Ideation toolkit [^6] by Studio Dott and Knowcards
+- IoT Service kit [^7] by Futurice
+- Tiles IoT cards [^8] by NTNU
 
 These lightweight methods allow for a high level of flexibility and are applicable at various moments throughout the design process. 
 
@@ -115,4 +115,4 @@ It is important to point out that tools like these are not the holy grail of *th
 [^8]: http://tilestoolkit.io/
 
 ---
-[Dries de Roeck](http://twitter.com/driesderoeck) is a next generation alchemist, moving back and forth between the design and research field. He leads all things research at the creative agency [Studio Dott](http://www.studiodott.be/) in Antwerp, Belgium. He is interested in the way people use and adapt technology in their day to day context, and how this can be an inspiration towards more humane & meaningful network connected products. As part of his ongoing PhD research he created the 'IoT Ideation cards', a personalisable deck of cards to conceptualise internet connected products.
+[Dries de Roeck](http://twitter.com/driesderoeck) is a next generation alchemist, moving back and forth between the design and research field. He leads all things research at the creative agency [Studio Dott](http://www.studiodott.be/) in Antwerp, Belgium. He is interested in the way people use and adapt technology in their day to day context, and how this can be an inspiration towards more humane & meaningful network connected products. As part of his ongoing PhD research he created the 'IoT Ideation cards', a personalizable deck of cards to conceptualise internet connected products.
