@@ -1,4 +1,4 @@
-# Dystopian scenarios and the Internet of Things
+# The here and now of dystopian scenarios
 Dr. Gaia Scagnetti
  
 The Internet of Things is a conversation about objects that discusses both the personification of things and the objectification of people.
@@ -7,15 +7,23 @@ The Internet of Things is a conversation about objects that discusses both the p
 
 The ecosystem of meanings we grow around objects is a map of our experiences; it can narrate of our disposition and personalities, desires and fears, past and future. Objects speak to us, as in his first novel *Things. A story of the Sixties*, where George Perec unfolds the characters stories by tracing the landscape of their possessions and the evolution of their taste. The way he describes those objects reveals their social significance and their symbolic value: "When on outings around Paris they stopped in villages to look at antiques, they no longer rushed straight towards the china plates, towards the church pews, towards the blown-glass demijohns and the brass candlesticks. (..) There was something forced in their liking for objects which only the taste of the day decreed to be beautiful: imitation Épinal pseudo-naive cartoons, English-style etchings, agates, spun-glass tumblers, neo-primitive paste jewelry, para-scientific apparatus. They still dreamt of possessing such things."[^1]
 
+/images/a1.png "The bicycle is not only a mode of transportation. It played a physical and symbolic role in the emancipation of women and the quest for an equal society."
+
 But objects do not describe the personal realm solely; they play a role in the definition of our larger culture. Western society classifies historical periods by the artifacts produced and technology employed: we talk about Stone Age, Bronze Age, and Iron Age for example. In Postwar America, the purchase of appliances, objects, furniture, accessories was considered a patriotic action, that would enable social equality through consumption. In the so-called *Consumer Republic* "mass consumption was not a personal indulgence. Rather, it was a civic responsibility designed to improve the living standards of all Americans, a critical part of a prosperity producing cycle of expanded consumer demand fueling greater production, thereby creating more well-paying jobs and in turn more affluent consumers capable of stoking the economy with their purchases."[^2]
+
+/images/b1.jpg
 
 The narrative around Design uses objects as the primary vehicle for imagination. A chair for an industrial designer is a form of particular significance, a venerated object that epitomizes the history of the discipline and embodies its challenges—designing the first chair is like a coming of age, a *rite of passage* for the young creative. It is a representation of the culture, ideologies, and technologies of the moment in which is designed and produced, and at the same time, a visualization of the designer's voice. 
 
 Any object is co-mingling of internal and external reality[^3] for its maker and also, for its owner. We choose, purchase and display objects to talk about ourselves, to express our individuality and participation, to define and prove our intentions.
 
+/images/c1.jpg
+
 However, it is not a matter of personal branding. We tend to describe this phenomenon as an action directed toward others, an attempt to establish rank, to assert belonging to a tribe, to create distinctions. We use idioms as "status symbol," "prized possession," "must-have" that represent a simplistic view popularized by certain advertising tradition of the 50s. Consumption is more than just condensation of desire, it is not merely what Bauman describes as "the dominant identity-shaping sphere in society[^4]" and it is not restricted to the mechanism of social distinction. Consumption is a formative aspect of modern society and culture[^5] and, as Polanyi suggests, economic concepts are not only distanced "descriptions of human behavior but also became, in modern times, structuring features of the social order.[6]"
 
 Our society’s relationship with objects is a complex and fascinating topic: our material culture, as the word said is, in fact, a Culture. Studies in material culture show that objects we surround ourselves with are a reflection intended to understand who we are, more than communication to others: 'the universe we want to grasp is the universe of ourselves.' Objects are mediators of understanding and power. As Miller describes "goods were not representations of meaning or signs of social distinction but, in the first place, media of relationship." When an object works as a mediator between distinct entities, it can connect or separate, it can be designed to admit or to exclude: objects exert control.
+
+/images/e1.png **"Free universal construction kit f.a.t. lab and sy-lab 2012** is a set of adapters for complete interoperability between 10 popular construction toys. It allows each of the different construction toys (Lego, Tinkertoy, Fischertechnik etc.) to interface with any of the other supported systems. Designed to challenge the control that panted object excerpt on their user more at: [http://fffff.at/free-universal-construction-kit/](http://fffff.at/free-universal-construction-kit/)"
 
 This is where the Internet of Things plays in. The Internet of Things’ aspiration is to mediate our relationships with the others, and it is pushed through an interesting rhetoric. Phrases like "Simply put, when the information of the internet is added to previously dumb objects, stuff gets useful" (from wareable.com[^7]) implies that your refrigerator is not really useful until it is connected to a network and it communicates with it.
 

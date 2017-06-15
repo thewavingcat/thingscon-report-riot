@@ -13,7 +13,7 @@ When designing wearables, especially fitness wearables, focus on your users’ g
 **Dries de Roeck: On IoT Design Processes**  
 The key to developing an IoT design process—and a successful IoT product—is to focus on user research.
 
-**Dr. Gaia Scagnetti: Dystopian scenarios and the Internet of Things**  
+**Dr. Gaia Scagnetti: The here and now of dystopian scenarios**  
 IoT mediates our relationship with the world. What if the difference between a traditional object and a smart one is that one talks *to* you while the other talks *about* you?
 
 **Holly Robbins: The Path for Transparency for IoT Technologies**  
