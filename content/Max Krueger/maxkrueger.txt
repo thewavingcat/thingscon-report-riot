@@ -1,1 +1,45 @@
-# Placeholder Max Krüger
+# Expanding the boundaries for caring
+
+/medium_header.txt
+
+It seems to me as if the currently dominant model of the IoT we are developing is one of outsourcing decisions and hiding complexity. A set of technologies measures things, let's say energy use and human presence in a building, automatically connects and analyses the data, and bases decisions and actions on the outcome of this analysis. This is super useful in many cases: it helps us save energy, money and more. An office building only has few elements, but is already quite a complex systems, and knowing how to act resourceful in that building can be quite difficult with limited information: how much does it really matter when I switch of the light? How heavy does it weigh on the energy use when I turn the heater up just a little bit? The same applies to many other systems: for example traffic, or a factory. We can't connect all the pieces of these systems. So we let the Internet of Things plus algorithms measure, decide and act for us. 
+
+I have been wondering for quite some time if a technology that is essentially about 'connecting' can not also be used to increase and improve our connections with each other and the world around us? Make us realise our place in these complex systems rather than hide the complexity? Help us understand connections in addition to or instead of automation?
+
+/images/a1.jpg "A street market can already be a quite complex system"
+
+What follows are early thoughts, loosely held together by the writings of the US American systems thinker Donella Meadows. They are a beginning. But I find it interesting and potentially useful to bring Donellas thoughts to the discussion. 
+
+Within the 'outsourcing decision-making' model of the IoT we not only outsource the act of deciding, but also our ability to decide: the complexity is hidden in data, to be read and acted upon by a machine. In intransparent systems with automated responses we have less understanding of our role and responsibility in the system as a whole, less agency to act fully and responsibly. This makes the system fragile: in case of failure of these automated sub-systems we are less able to react appropriately, unfamiliar with our role in the larger system, without an understanding or a feeling for the larger system. 
+
+Meadows writings deal with exactly this: our ability to act in complex systems whose behaviour is by nature unpredictable, with limited knowledge about the exact nature of the connections between the elements that make up the system. She calls this [dancing with systems](http://www.ioia.net/images/PDF/DancingWithSystemsDMeadows.pdf): a way of acting in a system more intuitively, similar to white water kayaking or improvising music. She has a long list of 'systems wisdoms', basically steps in this dance with systems. Two that I find perhaps most relevant for this discussion are "Expanding the boundaries of caring" and "Locating responsibility in the system". Both could serve as cues when we design IoT solutions to act in complex systems.
+
+/images/a3.jpg "A rainforest as complex system"
+
+**Locating Responsibility**
+
+In complex systems it might be difficult for single actors to identify responsibility and agency: what effect do my actions really have? Unnoticed outside events my cause the system to behave differently, even though my action remained the same. Locating responsibility is about designing interventions that help actors to realise their responsibility by receiving direct feedback on their actions. Meadow calls this "intrinsic responsibility". Providing this feedback could potentially even help us figure out our role on some of the largest systems: what effect does it have on the temperature of the planet when I buy Banana in winter-grey Berlin? When I commute to work in an empty car? We might have an idea of the answer rationally, but the feedback is missing: we don't experience the consequences directly. 
+
+**Expanding our boundaries of caring**
+
+*"Living successfully in a world of complex systems means expanding not only time horizons and thought horizons; above all it means expanding the horizons of caring. There are moral reasons for doing that, of course. And if moral arguments are not sufficient, systems thinking provides the practical reasons to back up the moral ones. The real system is interconnected. No part of the human race is separate either from other human beings or from the global ecosystem. It will not be possible in this integrated world for your heart to succeed if your lungs fail, or for your company to succeed if your workers fail, or for the rich in Los Angeles to succeed if the poor in Los Angeles fail, or for Europe to succeed if Africa fails, or for the global economy to succeed if the global environment fails.*
+*"As with everything else about systems, most people already know the interconnections that make moral and practical rules turn out to be the same rules. They just have to bring themselves to believe what they know."* (from [Thinking in Systems](http://www.ioia.net/images/PDF/DancingWithSystemsDMeadows.pdf))
+
+It is often difficult to care for things, people, processes far away, that out of our direct experience, or simply easy to ignore. 
+
+Could IoT solutions not provide the direct feedback necessary to locate responsibility in systems and help us expand the boundaries of our caring? 
+
+Two examples from within the ThingsCon community can help to illustrate this possibility: 
+
+[Alexandra Deschamps-Sonsino's Good Night Lamp](http://goodnightlamp.com) is a house-shaped set of lamps, connected to each other. When one owner of a lamp switches her lamp on, the lamp connected elsewhere, owned by a cared-about person switches on too, communicating that someone has reached home or is simply thinking about the other person. This helps express care for others far away, and experience this care in return. 
+
+Another, even stronger example for this point is Usman Haque's project [Natural Fuse](http://naturalfuse.org) (from 2009!). It is a set of connected plants and sockets: the system measures the energy used by appliances powered through the socket as well as the average CO2 that the plants can 'recycle'. Users have the option to use the socket selflessly or selfishly. In selfless mode the power switches of when the system consumes more energy than what is sustainable. In selfish mode the socket stays powered. And if energy use goes beyond a certain threshold someone else's plant is killed with a shot of vinegar. The selfish person can be held accountable for the selfish act by the other members of the system. 
+
+Such an intervention ultimately helps to understand ones role, responsibility and agency in a complex systems by highlighting the connections and providing direct feedback, thereby locating responsibility as well as helping members expand the boundaries of their caring. 
+
+I believe there can be many more examples of how IoT solutions can help create transparency and insight into complex systems and thereby help us act responsibly within them. What others exist already? And which ones can we build?
+
+---
+Max Krüger is a psychologist
+
+/medium_footer.txt
