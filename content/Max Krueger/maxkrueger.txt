@@ -1,7 +1,5 @@
 # Expanding the boundaries for caring
 
-/medium_header.txt
-
 It seems to me as if the currently dominant model of the IoT we are developing is one of outsourcing decisions and hiding complexity. A set of technologies measures things, let's say energy use and human presence in a building, automatically connects and analyses the data, and bases decisions and actions on the outcome of this analysis. This is super useful in many cases: it helps us save energy, money and more. An office building only has few elements, but is already quite a complex systems, and knowing how to act resourceful in that building can be quite difficult with limited information: how much does it really matter when I switch of the light? How heavy does it weigh on the energy use when I turn the heater up just a little bit? The same applies to many other systems: for example traffic, or a factory. We can't connect all the pieces of these systems. So we let the Internet of Things plus algorithms measure, decide and act for us. 
 
 I have been wondering for quite some time if a technology that is essentially about 'connecting' can not also be used to increase and improve our connections with each other and the world around us? Make us realise our place in these complex systems rather than hide the complexity? Help us understand connections in addition to or instead of automation?
@@ -40,6 +38,4 @@ Such an intervention ultimately helps to understand ones role, responsibility an
 I believe there can be many more examples of how IoT solutions can help create transparency and insight into complex systems and thereby help us act responsibly within them. What others exist already? And which ones can we build?
 
 ---
-Max Krüger is a psychologist
-
-/medium_footer.txt
+[Max Krüger](http://twitter.com/krgermax) is excited about spaces, experiences and emerging technologies that foster collaboration, creativity and the active exchange of knowledge. His work focusses on building communities in virtual or physical spaces to co-create human centric technologies and desirable futures. As part of this he also frequently facilitates workshops of various formats. Max has co-founded Makeistan, Lahores first Makerspace, [ThingsCon](http://thingscon.com), a conference about critical, human-centric approaches to the Internet of Things and is a board member of the Global Innovation Gathering, a worldwide community of innovators. Max is also an active member of the MIT-based International Development Innovation Network. 
