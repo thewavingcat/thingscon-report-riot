@@ -40,5 +40,8 @@ A personal journey of discovery, and a heureka moment about the Internet of Thin
 **Rosie Burbidge: Design and branding: what rights do you own and what pitfalls should you watch out for?**  
 IP protection in the Internet of Things is unusual in that it engages all intellectual property rights in more or less equal measure.
 
+**Simon Höher: Controlling Machines—AI, intentions, and games and in the IoT**  
+Does our technology have intentions, and how can we be deliberate about using, engaging with, or hacking the technologies in our lives?
+
 **Usman Haque: How Might We Grow Diverse Internets of Things? Learning from Project Xanadu & the WWW**  
 How could we design IoT to be different—to be truly radically and legitimately collaborative? Ted Nelson’s vision of Project Xanadu offers some inspiration. 

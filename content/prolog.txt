@@ -12,9 +12,13 @@ We find it important to cover a wide range of issues and perspectives—discipli
 
 We see this is a first step on a longer journey—a kickoff if you will. We will keep adding to this collection: As the questions surrounding responsible IoT change, so will this project. We will continue to do this as much in the open as possible (see the section "Keep it open!" below).
 
++++
+
 ### Content overview 
 
 /toc.txt
+
++++
 
 ### Keep it open!
 

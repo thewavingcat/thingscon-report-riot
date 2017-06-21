@@ -1,4 +1,5 @@
 # Expanding the boundaries for caring
+By Max Krüger
 
 It seems to me as if the currently dominant model of the IoT we are developing is one of outsourcing decisions and hiding complexity. A set of technologies measures things, let's say energy use and human presence in a building, automatically connects and analyses the data, and bases decisions and actions on the outcome of this analysis. This is super useful in many cases: it helps us save energy, money and more. An office building only has few elements, but is already quite a complex systems, and knowing how to act resourceful in that building can be quite difficult with limited information: how much does it really matter when I switch of the light? How heavy does it weigh on the energy use when I turn the heater up just a little bit? The same applies to many other systems: for example traffic, or a factory. We can't connect all the pieces of these systems. So we let the Internet of Things plus algorithms measure, decide and act for us. 
 

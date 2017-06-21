@@ -2,7 +2,7 @@
 
 +++
 
-Version: v1.00 / 16 June 2017
+Version: v1.01 / 18 June 2017
 
 **ThingsCon Report: The State of Responsible Internet of Things (IoT)**   
 
@@ -90,6 +90,10 @@ All rights lie with the individual authors. Please reference the author when ref
 +++
 
 /Rosie Burbidge/rosieburbidge.txt
+
++++
+
+/Simon Hoeher/simonhoeher.txt
 
 +++
 
